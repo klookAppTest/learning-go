@@ -19,5 +19,14 @@ func main()  {
 	Book1.subject = "Go 语言教程"
 	Book1.book_id = 6495407
 
-	fmt.Println(Book1.title, Book1.author , Book1.subject , Book1.book_id)
+	fmt.Println(Book1)
+
+	change_title(&Book1)
+
+	fmt.Println(Book1)
+
+}
+
+func change_title(book *Books){
+	book.title = "chaged_title"
 }
