@@ -27,6 +27,7 @@ func main()  {
 
 }
 
+// 结构体作为指针传入函数，改变结构体的参数数据
 func change_title(book *Books){
 	book.title = "chaged_title"
 }
