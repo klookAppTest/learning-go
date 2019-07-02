@@ -27,6 +27,7 @@ func (e Employee) calculateSalary() int{
 	return e.basicSal
 }
 
+// 传入一个数组类型的函数包含上述的两个结构体，用range来进行遍历都调用接口中的函数
 func totalExpanse(s []SalaryCalculate){
 	expense := 0
 	for _,v := range s{
