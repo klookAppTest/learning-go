@@ -4,9 +4,6 @@ chan T 表示 T 类型的信道
 简介有效的赋值
 ```
 a := make(chan int)
-```
-
-```
 data := <- a // 读取信道 a  
 a <- data // 写入信道 a
 ```
