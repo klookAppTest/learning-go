@@ -1,0 +1,901 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1597118687723,2095,注册,200,OK,Peppa Pig Live 1-10,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2095,0,36
+1597118687444,2365,注册,200,OK,Peppa Pig Live 1-7,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2352,0,234
+1597118687544,2265,注册,200,OK,Peppa Pig Live 1-8,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2252,0,131
+1597118687084,2728,注册,200,OK,Peppa Pig Live 1-3,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2707,0,600
+1597118687248,2564,注册,200,OK,Peppa Pig Live 1-5,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2542,0,432
+1597118687341,2468,注册,200,OK,Peppa Pig Live 1-6,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2451,0,339
+1597118687037,2772,注册,200,OK,Peppa Pig Live 1-2,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2756,0,647
+1597118687644,2165,注册,200,OK,Peppa Pig Live 1-9,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2149,0,31
+1597118687177,2632,注册,200,OK,Peppa Pig Live 1-4,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2619,0,499
+1597118687043,2765,注册,200,OK,Peppa Pig Live 1-1,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2746,0,633
+1597118689930,51,套餐信息,200,OK,Peppa Pig Live 1-5,text,true,,1555,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70914/schedules_and_units,51,0,0
+1597118689908,96,套餐信息,200,OK,Peppa Pig Live 1-10,text,true,,1683,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70923/schedules_and_units,96,0,0
+1597118689984,37,get_seatio_info,200,,Peppa Pig Live 1-5,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010662&date=2020-11-22,30,0,0
+1597118689928,88,套餐信息,200,OK,Peppa Pig Live 1-9,text,true,,1683,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70923/schedules_and_units,88,0,0
+1597118689925,99,套餐信息,200,OK,Peppa Pig Live 1-3,text,true,,926,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70931/schedules_and_units,99,0,0
+1597118689920,105,套餐信息,200,OK,Peppa Pig Live 1-7,text,true,,923,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70919/schedules_and_units,105,0,0
+1597118689922,107,套餐信息,200,OK,Peppa Pig Live 1-8,text,true,,914,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70921/schedules_and_units,107,0,0
+1597118689927,107,套餐信息,200,OK,Peppa Pig Live 1-6,text,true,,923,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70918/schedules_and_units,107,0,0
+1597118689928,114,套餐信息,200,OK,Peppa Pig Live 1-2,text,true,,925,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70930/schedules_and_units,114,0,0
+1597118689929,114,套餐信息,200,OK,Peppa Pig Live 1-4,text,true,,917,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70932/schedules_and_units,114,0,0
+1597118690024,31,get_seatio_info,200,,Peppa Pig Live 1-9,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010668&date=2020-11-22,31,0,0
+1597118690022,67,assigned_seat,200,,Peppa Pig Live 1-5,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010662&date=2020-11-22,67,0,0
+1597118690056,40,assigned_seat,200,,Peppa Pig Live 1-9,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010668&date=2020-11-22,39,0,0
+1597118690030,68,get_seatio_info,200,,Peppa Pig Live 1-8,text,true,,556,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010666&date=2020-11-22,68,0,0
+1597118690035,66,get_seatio_info,200,,Peppa Pig Live 1-6,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010663&date=2020-11-22,66,0,0
+1597118690025,80,get_seatio_info,200,,Peppa Pig Live 1-3,text,true,,556,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010679&date=2020-11-21,80,0,0
+1597118690026,83,get_seatio_info,200,,Peppa Pig Live 1-7,text,true,,556,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010664&date=2020-11-22,83,0,0
+1597118690044,67,get_seatio_info,200,,Peppa Pig Live 1-4,text,true,,556,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010680&date=2020-11-21,67,0,0
+1597118690043,72,get_seatio_info,200,,Peppa Pig Live 1-2,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010678&date=2020-11-21,72,0,0
+1597118690102,60,assigned_seat,200,,Peppa Pig Live 1-6,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010663&date=2020-11-22,60,0,0
+1597118690099,81,assigned_seat,200,,Peppa Pig Live 1-8,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010666&date=2020-11-22,80,0,0
+1597118690106,80,assigned_seat,200,,Peppa Pig Live 1-3,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010679&date=2020-11-21,80,0,0
+1597118690112,85,assigned_seat,200,,Peppa Pig Live 1-4,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010680&date=2020-11-21,85,0,0
+1597118690116,99,assigned_seat,200,,Peppa Pig Live 1-2,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010678&date=2020-11-21,99,0,0
+1597118690110,116,assigned_seat,200,,Peppa Pig Live 1-7,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010664&date=2020-11-22,116,0,0
+1597118690096,663,assign_seat,200,,Peppa Pig Live 1-9,text,true,,1218,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,663,0,0
+1597118690761,118,加入购物车,200,,Peppa Pig Live 1-9,text,true,,411,532,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,117,0,0
+1597118690091,1060,assign_seat,200,,Peppa Pig Live 1-5,text,true,,1212,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,1060,0,0
+1597118690181,1028,assign_seat,200,,Peppa Pig Live 1-8,text,true,,1266,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,1028,0,0
+1597118690226,1002,assign_seat,200,,Peppa Pig Live 1-7,text,true,,1251,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,1002,0,0
+1597118690187,1062,assign_seat,200,,Peppa Pig Live 1-3,text,true,,1253,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,1062,0,0
+1597118690216,1052,assign_seat,200,,Peppa Pig Live 1-2,text,true,,1218,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,1051,0,0
+1597118690198,1076,assign_seat,200,,Peppa Pig Live 1-4,text,true,,1266,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,1076,0,0
+1597118691153,121,加入购物车,200,,Peppa Pig Live 1-5,text,true,,411,531,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,121,0,0
+1597118691230,228,加入购物车,200,,Peppa Pig Live 1-7,text,true,,411,536,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,228,0,0
+1597118691250,209,加入购物车,200,,Peppa Pig Live 1-3,text,true,,411,536,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,209,0,0
+1597118690163,1309,assign_seat,200,,Peppa Pig Live 1-6,text,true,,1222,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,1309,0,0
+1597118691275,241,加入购物车,200,,Peppa Pig Live 1-4,text,true,,411,536,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,241,0,0
+1597118691211,321,加入购物车,200,,Peppa Pig Live 1-8,text,true,,411,536,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,321,0,0
+1597118691270,274,加入购物车,200,,Peppa Pig Live 1-2,text,true,,411,532,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,274,0,0
+1597118691473,212,加入购物车,200,,Peppa Pig Live 1-6,text,true,,411,531,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,212,0,0
+1597118690880,2292,下单,200,,Peppa Pig Live 1-9,text,true,,3737,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2292,0,0
+1597118691459,2329,下单,200,,Peppa Pig Live 1-7,text,true,,3735,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2328,0,0
+1597118691517,2355,下单,200,,Peppa Pig Live 1-4,text,true,,3733,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2355,0,0
+1597118691460,2415,下单,200,,Peppa Pig Live 1-3,text,true,,3733,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2415,0,0
+1597118691533,2355,下单,200,,Peppa Pig Live 1-8,text,true,,3735,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2355,0,0
+1597118691545,2368,下单,200,,Peppa Pig Live 1-2,text,true,,3729,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2368,0,0
+1597118691686,2292,下单,200,,Peppa Pig Live 1-6,text,true,,3730,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2292,0,0
+1597118689931,4562,套餐信息,200,OK,Peppa Pig Live 1-1,text,true,,1556,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70929/schedules_and_units,4562,0,0
+1597118690006,4506,get_seatio_info,200,,Peppa Pig Live 1-10,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010668&date=2020-11-21,4506,0,0
+1597118694495,21,get_seatio_info,200,,Peppa Pig Live 1-1,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010677&date=2020-11-21,21,0,0
+1597118694513,44,assigned_seat,200,,Peppa Pig Live 1-10,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010668&date=2020-11-21,44,0,0
+1597118694517,51,assigned_seat,200,,Peppa Pig Live 1-1,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010677&date=2020-11-21,51,0,0
+1597118694569,455,assign_seat,200,,Peppa Pig Live 1-1,text,true,,1230,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,454,0,0
+1597118695025,145,加入购物车,200,,Peppa Pig Live 1-1,text,true,,411,532,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,145,0,0
+1597118694558,709,assign_seat,200,,Peppa Pig Live 1-10,text,true,,1218,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,709,0,0
+1597118695268,126,加入购物车,200,,Peppa Pig Live 1-10,text,true,,411,532,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,126,0,0
+1597118693791,2710,创建订单,200,,Peppa Pig Live 1-7,text,true,,585,1543,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2710,0,2
+1597118693981,2842,创建订单,200,,Peppa Pig Live 1-6,text,true,,585,1538,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2842,0,2
+1597118693890,2935,创建订单,200,,Peppa Pig Live 1-8,text,true,,585,1543,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2935,0,2
+1597118693917,2915,创建订单,200,,Peppa Pig Live 1-2,text,true,,585,1539,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2915,0,1
+1597118693877,2956,创建订单,200,,Peppa Pig Live 1-3,text,true,,585,1543,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2956,0,2
+1597118693875,2967,创建订单,200,,Peppa Pig Live 1-4,text,true,,585,1543,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2967,0,8
+1597118693175,4055,创建订单,200,,Peppa Pig Live 1-9,text,true,,585,1540,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,4054,0,4
+1597118696503,756,释放,204,No Content,Peppa Pig Live 1-7,,true,,298,379,10,10,https://api.seatsio.net/events/2020-11-22-11/actions/release,0,0,553
+1597118691275,6020,下单,200,,Peppa Pig Live 1-5,text,true,,3738,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,6020,0,0
+1597118696827,743,释放,204,No Content,Peppa Pig Live 1-8,,true,,298,379,10,10,https://api.seatsio.net/events/2020-11-22-11/actions/release,0,0,546
+1597118696834,744,释放,204,No Content,Peppa Pig Live 1-3,,true,,298,379,10,10,https://api.seatsio.net/events/2020-11-21-19/actions/release,0,0,546
+1597118696833,758,释放,204,No Content,Peppa Pig Live 1-2,,true,,298,375,10,10,https://api.seatsio.net/events/2020-11-21-19/actions/release,0,0,541
+1597118696843,763,释放,204,No Content,Peppa Pig Live 1-4,,true,,298,379,10,10,https://api.seatsio.net/events/2020-11-21-19/actions/release,0,0,557
+1597118695395,2320,下单,200,,Peppa Pig Live 1-10,text,true,,3737,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2320,0,0
+1597118696824,934,释放,204,No Content,Peppa Pig Live 1-6,,true,,298,374,10,10,https://api.seatsio.net/events/2020-11-22-11/actions/release,0,0,685
+1597118697231,756,释放,204,No Content,Peppa Pig Live 1-9,,true,,298,375,10,10,https://api.seatsio.net/events/2020-11-22-15/actions/release,0,0,550
+1597118697263,2161,注册,200,OK,Peppa Pig Live 1-7,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2161,0,14
+1597118699425,23,套餐信息,200,OK,Peppa Pig Live 1-7,text,true,,923,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70919/schedules_and_units,23,0,0
+1597118699449,47,get_seatio_info,200,,Peppa Pig Live 1-7,text,true,,556,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010664&date=2020-11-22,47,0,0
+1597118699497,38,assigned_seat,200,,Peppa Pig Live 1-7,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010664&date=2020-11-22,38,0,0
+1597118697572,2157,注册,200,OK,Peppa Pig Live 1-8,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2157,0,16
+1597118697579,2178,注册,200,OK,Peppa Pig Live 1-3,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2178,0,17
+1597118699730,30,套餐信息,200,OK,Peppa Pig Live 1-8,text,true,,914,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70921/schedules_and_units,29,0,0
+1597118697607,2165,注册,200,OK,Peppa Pig Live 1-4,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2165,0,14
+1597118697592,2182,注册,200,OK,Peppa Pig Live 1-2,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2182,0,24
+1597118699758,22,套餐信息,200,OK,Peppa Pig Live 1-3,text,true,,926,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70931/schedules_and_units,22,0,0
+1597118699760,34,get_seatio_info,200,,Peppa Pig Live 1-8,text,true,,556,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010666&date=2020-11-22,34,0,0
+1597118699774,28,套餐信息,200,OK,Peppa Pig Live 1-2,text,true,,925,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70930/schedules_and_units,28,0,0
+1597118699773,32,套餐信息,200,OK,Peppa Pig Live 1-4,text,true,,917,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70932/schedules_and_units,32,0,0
+1597118699780,44,get_seatio_info,200,,Peppa Pig Live 1-3,text,true,,556,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010679&date=2020-11-21,44,0,0
+1597118699802,22,get_seatio_info,200,,Peppa Pig Live 1-2,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010678&date=2020-11-21,22,0,0
+1597118699795,53,assigned_seat,200,,Peppa Pig Live 1-8,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010666&date=2020-11-22,52,0,0
+1597118699806,67,get_seatio_info,200,,Peppa Pig Live 1-4,text,true,,556,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010680&date=2020-11-21,67,0,0
+1597118699824,77,assigned_seat,200,,Peppa Pig Live 1-3,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010679&date=2020-11-21,77,0,0
+1597118699824,77,assigned_seat,200,,Peppa Pig Live 1-2,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010678&date=2020-11-21,77,0,0
+1597118697760,2141,注册,200,OK,Peppa Pig Live 1-6,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2141,0,25
+1597118699874,55,assigned_seat,200,,Peppa Pig Live 1-4,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010680&date=2020-11-21,54,0,0
+1597118699901,42,套餐信息,200,OK,Peppa Pig Live 1-6,text,true,,923,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70918/schedules_and_units,42,0,0
+1597118697297,2664,创建订单,200,,Peppa Pig Live 1-5,text,true,,585,1539,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2664,0,2
+1597118699536,436,assign_seat,200,,Peppa Pig Live 1-7,text,true,,1251,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,436,0,0
+1597118699944,48,get_seatio_info,200,,Peppa Pig Live 1-6,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010663&date=2020-11-22,48,0,0
+1597118699993,40,assigned_seat,200,,Peppa Pig Live 1-6,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010663&date=2020-11-22,40,0,0
+1597118697988,2119,注册,200,OK,Peppa Pig Live 1-9,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2118,0,11
+1597118700107,44,套餐信息,200,OK,Peppa Pig Live 1-9,text,true,,1683,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70923/schedules_and_units,44,0,0
+1597118700152,35,get_seatio_info,200,,Peppa Pig Live 1-9,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010668&date=2020-11-22,35,0,0
+1597118700188,39,assigned_seat,200,,Peppa Pig Live 1-9,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010668&date=2020-11-22,39,0,0
+1597118699848,449,assign_seat,200,,Peppa Pig Live 1-8,text,true,,1266,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,449,0,0
+1597118699973,365,加入购物车,200,,Peppa Pig Live 1-7,text,true,,411,536,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,365,0,0
+1597118699929,474,assign_seat,200,,Peppa Pig Live 1-4,text,true,,1266,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,474,0,0
+1597118699902,501,assign_seat,200,,Peppa Pig Live 1-2,text,true,,1218,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,501,0,0
+1597118699901,505,assign_seat,200,,Peppa Pig Live 1-3,text,true,,1253,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,505,0,0
+1597118700298,216,加入购物车,200,,Peppa Pig Live 1-8,text,true,,411,536,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,216,0,0
+1597118700036,489,assign_seat,200,,Peppa Pig Live 1-6,text,true,,1222,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,489,0,0
+1597118697718,2871,创建订单,200,,Peppa Pig Live 1-10,text,true,,585,1540,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2871,0,2
+1597118700405,232,加入购物车,200,,Peppa Pig Live 1-2,text,true,,411,532,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,232,0,0
+1597118700407,251,加入购物车,200,,Peppa Pig Live 1-3,text,true,,411,536,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,250,0,0
+1597118700404,258,加入购物车,200,,Peppa Pig Live 1-4,text,true,,411,536,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,258,0,0
+1597118699962,751,释放,204,No Content,Peppa Pig Live 1-5,,true,,298,374,10,10,https://api.seatsio.net/events/2020-11-22-11/actions/release,0,0,543
+1597118700526,224,加入购物车,200,,Peppa Pig Live 1-6,text,true,,411,531,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,224,0,0
+1597118700228,547,assign_seat,200,,Peppa Pig Live 1-9,text,true,,1218,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,546,0,0
+1597118700775,161,加入购物车,200,,Peppa Pig Live 1-9,text,true,,411,532,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,161,0,0
+1597118700590,733,释放,204,No Content,Peppa Pig Live 1-10,,true,,298,375,10,10,https://api.seatsio.net/events/2020-11-21-15/actions/release,0,0,533
+1597118695171,7114,下单,200,,Peppa Pig Live 1-1,text,true,,3737,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,7114,0,0
+1597118700339,2351,下单,200,,Peppa Pig Live 1-7,text,true,,3735,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2351,0,0
+1597118700714,2126,注册,200,OK,Peppa Pig Live 1-5,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2126,0,11
+1597118702841,19,套餐信息,200,OK,Peppa Pig Live 1-5,text,true,,1555,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70914/schedules_and_units,19,0,0
+1597118702861,21,get_seatio_info,200,,Peppa Pig Live 1-5,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010662&date=2020-11-22,21,0,0
+1597118702883,25,assigned_seat,200,,Peppa Pig Live 1-5,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010662&date=2020-11-22,25,0,0
+1597118700515,2448,下单,200,,Peppa Pig Live 1-8,text,true,,3735,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2448,0,0
+1597118700638,2421,下单,200,,Peppa Pig Live 1-2,text,true,,3729,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2421,0,0
+1597118700658,2424,下单,200,,Peppa Pig Live 1-3,text,true,,3733,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2424,0,0
+1597118700751,2351,下单,200,,Peppa Pig Live 1-6,text,true,,3730,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2351,0,0
+1597118700937,2296,下单,200,,Peppa Pig Live 1-9,text,true,,3737,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2296,0,0
+1597118702909,455,assign_seat,200,,Peppa Pig Live 1-5,text,true,,1212,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,455,0,0
+1597118701324,2085,注册,200,OK,Peppa Pig Live 1-10,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2085,0,13
+1597118703410,29,套餐信息,200,OK,Peppa Pig Live 1-10,text,true,,1683,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70923/schedules_and_units,29,0,0
+1597118703440,42,get_seatio_info,200,,Peppa Pig Live 1-10,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010668&date=2020-11-21,42,0,0
+1597118703483,65,assigned_seat,200,,Peppa Pig Live 1-10,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010668&date=2020-11-21,65,0,0
+1597118703365,215,加入购物车,200,,Peppa Pig Live 1-5,text,true,,411,531,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,215,0,0
+1597118703549,563,assign_seat,200,,Peppa Pig Live 1-10,text,true,,1218,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,563,0,0
+1597118704113,117,加入购物车,200,,Peppa Pig Live 1-10,text,true,,411,532,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,117,0,0
+1597118702288,2746,创建订单,200,,Peppa Pig Live 1-1,text,true,,585,1540,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2746,0,1
+1597118702691,2770,创建订单,200,,Peppa Pig Live 1-7,text,true,,585,1543,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2769,0,2
+1597118702964,2790,创建订单,200,,Peppa Pig Live 1-8,text,true,,585,1543,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2790,0,2
+1597118705035,732,释放,204,No Content,Peppa Pig Live 1-1,,true,,298,375,10,10,https://api.seatsio.net/events/2020-11-21-19/actions/release,0,0,535
+1597118703083,2955,创建订单,200,,Peppa Pig Live 1-3,text,true,,585,1543,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2955,0,2
+1597118703060,2981,创建订单,200,,Peppa Pig Live 1-2,text,true,,585,1539,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2981,0,3
+1597118703103,2961,创建订单,200,,Peppa Pig Live 1-6,text,true,,585,1538,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2961,0,2
+1597118703581,2485,下单,200,,Peppa Pig Live 1-5,text,true,,3738,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2485,0,0
+1597118705461,754,释放,204,No Content,Peppa Pig Live 1-7,,true,,298,379,10,10,https://api.seatsio.net/events/2020-11-22-11/actions/release,0,0,543
+1597118703235,2988,创建订单,200,,Peppa Pig Live 1-9,text,true,,585,1540,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2988,0,3
+1597118705755,745,释放,204,No Content,Peppa Pig Live 1-8,,true,,298,379,10,10,https://api.seatsio.net/events/2020-11-22-11/actions/release,0,0,540
+1597118704231,2489,下单,200,,Peppa Pig Live 1-10,text,true,,3737,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2489,0,0
+1597118706041,724,释放,204,No Content,Peppa Pig Live 1-2,,true,,298,375,10,10,https://api.seatsio.net/events/2020-11-21-19/actions/release,0,0,529
+1597118706064,746,释放,204,No Content,Peppa Pig Live 1-6,,true,,298,374,10,10,https://api.seatsio.net/events/2020-11-22-11/actions/release,0,0,541
+1597118706039,927,释放,204,No Content,Peppa Pig Live 1-3,,true,,298,379,10,10,https://api.seatsio.net/events/2020-11-21-19/actions/release,0,0,677
+1597118706224,753,释放,204,No Content,Peppa Pig Live 1-9,,true,,298,375,10,10,https://api.seatsio.net/events/2020-11-22-15/actions/release,0,0,547
+1597118700663,6689,下单,200,,Peppa Pig Live 1-4,text,true,,3733,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,6688,0,0
+1597118705768,2128,注册,200,OK,Peppa Pig Live 1-1,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2128,0,12
+1597118707896,24,套餐信息,200,OK,Peppa Pig Live 1-1,text,true,,1556,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70929/schedules_and_units,24,0,0
+1597118707921,19,get_seatio_info,200,,Peppa Pig Live 1-1,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010677&date=2020-11-21,19,0,0
+1597118707941,29,assigned_seat,200,,Peppa Pig Live 1-1,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010677&date=2020-11-21,29,0,0
+1597118706216,2091,注册,200,OK,Peppa Pig Live 1-7,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2091,0,12
+1597118708307,25,套餐信息,200,OK,Peppa Pig Live 1-7,text,true,,923,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70919/schedules_and_units,25,0,0
+1597118708333,25,get_seatio_info,200,,Peppa Pig Live 1-7,text,true,,556,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010664&date=2020-11-22,25,0,0
+1597118708359,39,assigned_seat,200,,Peppa Pig Live 1-7,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010664&date=2020-11-22,39,0,0
+1597118707970,545,assign_seat,200,,Peppa Pig Live 1-1,text,true,,1230,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,545,0,0
+1597118706501,2115,注册,200,OK,Peppa Pig Live 1-8,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2115,0,12
+1597118708516,108,加入购物车,200,,Peppa Pig Live 1-1,text,true,,411,532,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,108,0,0
+1597118708617,49,套餐信息,200,OK,Peppa Pig Live 1-8,text,true,,914,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70921/schedules_and_units,49,0,0
+1597118708667,32,get_seatio_info,200,,Peppa Pig Live 1-8,text,true,,556,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010666&date=2020-11-22,32,0,0
+1597118708700,43,assigned_seat,200,,Peppa Pig Live 1-8,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010666&date=2020-11-22,43,0,0
+1597118708398,468,assign_seat,200,,Peppa Pig Live 1-7,text,true,,1251,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,468,0,0
+1597118706067,2803,创建订单,200,,Peppa Pig Live 1-5,text,true,,585,1539,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2803,0,2
+1597118706766,2151,注册,200,OK,Peppa Pig Live 1-2,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2151,0,10
+1597118708918,30,套餐信息,200,OK,Peppa Pig Live 1-2,text,true,,925,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70930/schedules_and_units,30,0,0
+1597118706811,2159,注册,200,OK,Peppa Pig Live 1-6,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2159,0,10
+1597118708949,27,get_seatio_info,200,,Peppa Pig Live 1-2,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010678&date=2020-11-21,27,0,0
+1597118708970,36,套餐信息,200,OK,Peppa Pig Live 1-6,text,true,,923,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70918/schedules_and_units,36,0,0
+1597118709007,25,get_seatio_info,200,,Peppa Pig Live 1-6,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010663&date=2020-11-22,25,0,0
+1597118708977,58,assigned_seat,200,,Peppa Pig Live 1-2,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010678&date=2020-11-21,58,0,0
+1597118708867,181,加入购物车,200,,Peppa Pig Live 1-7,text,true,,411,536,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,181,0,0
+1597118706967,2134,注册,200,OK,Peppa Pig Live 1-3,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2134,0,10
+1597118709032,73,assigned_seat,200,,Peppa Pig Live 1-6,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010663&date=2020-11-22,73,0,0
+1597118706978,2172,注册,200,OK,Peppa Pig Live 1-9,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2171,0,11
+1597118709101,60,套餐信息,200,OK,Peppa Pig Live 1-3,text,true,,926,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70931/schedules_and_units,60,0,0
+1597118709150,36,套餐信息,200,OK,Peppa Pig Live 1-9,text,true,,1683,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70923/schedules_and_units,36,0,0
+1597118709162,44,get_seatio_info,200,,Peppa Pig Live 1-3,text,true,,556,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010679&date=2020-11-21,44,0,0
+1597118709207,28,assigned_seat,200,,Peppa Pig Live 1-3,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010679&date=2020-11-21,28,0,0
+1597118709186,56,get_seatio_info,200,,Peppa Pig Live 1-9,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010668&date=2020-11-22,56,0,0
+1597118709243,48,assigned_seat,200,,Peppa Pig Live 1-9,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010668&date=2020-11-22,48,0,0
+1597118708743,548,assign_seat,200,,Peppa Pig Live 1-8,text,true,,1266,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,548,0,0
+1597118709292,121,加入购物车,200,,Peppa Pig Live 1-8,text,true,,411,536,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,121,0,0
+1597118709035,540,assign_seat,200,,Peppa Pig Live 1-2,text,true,,1218,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,540,0,0
+1597118709106,502,assign_seat,200,,Peppa Pig Live 1-6,text,true,,1222,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,502,0,0
+1597118708871,754,释放,204,No Content,Peppa Pig Live 1-5,,true,,298,374,10,10,https://api.seatsio.net/events/2020-11-22-11/actions/release,0,0,545
+1597118709236,460,assign_seat,200,,Peppa Pig Live 1-3,text,true,,1253,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,460,0,0
+1597118709292,481,assign_seat,200,,Peppa Pig Live 1-9,text,true,,1218,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,481,0,0
+1597118709576,200,加入购物车,200,,Peppa Pig Live 1-2,text,true,,411,532,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,200,0,0
+1597118709609,178,加入购物车,200,,Peppa Pig Live 1-6,text,true,,411,531,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,178,0,0
+1597118709696,154,加入购物车,200,,Peppa Pig Live 1-3,text,true,,411,536,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,153,0,0
+1597118709774,194,加入购物车,200,,Peppa Pig Live 1-9,text,true,,411,532,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,194,0,0
+1597118707353,2929,创建订单,200,,Peppa Pig Live 1-4,text,true,,585,1543,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2929,0,1
+1597118710283,736,释放,204,No Content,Peppa Pig Live 1-4,,true,,298,379,10,10,https://api.seatsio.net/events/2020-11-21-19/actions/release,0,0,526
+1597118708624,2483,下单,200,,Peppa Pig Live 1-1,text,true,,3737,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2483,0,0
+1597118709048,2410,下单,200,,Peppa Pig Live 1-7,text,true,,3735,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2409,0,0
+1597118709627,2110,注册,200,OK,Peppa Pig Live 1-5,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2110,0,10
+1597118711738,19,套餐信息,200,OK,Peppa Pig Live 1-5,text,true,,1555,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70914/schedules_and_units,19,0,0
+1597118711758,19,get_seatio_info,200,,Peppa Pig Live 1-5,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010662&date=2020-11-22,19,0,0
+1597118709414,2369,下单,200,,Peppa Pig Live 1-8,text,true,,3735,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2369,0,0
+1597118711777,32,assigned_seat,200,,Peppa Pig Live 1-5,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010662&date=2020-11-22,32,0,0
+1597118709776,2365,下单,200,,Peppa Pig Live 1-2,text,true,,3729,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2365,0,0
+1597118709788,2456,下单,200,,Peppa Pig Live 1-6,text,true,,3730,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2456,0,0
+1597118709850,2400,下单,200,,Peppa Pig Live 1-3,text,true,,3733,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2400,0,0
+1597118711809,453,assign_seat,200,,Peppa Pig Live 1-5,text,true,,1212,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,453,0,0
+1597118709969,2422,下单,200,,Peppa Pig Live 1-9,text,true,,3737,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2422,0,0
+1597118712263,197,加入购物车,200,,Peppa Pig Live 1-5,text,true,,411,531,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,197,0,0
+1597118706721,5840,创建订单,200,,Peppa Pig Live 1-10,text,true,,585,1540,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,5840,0,2
+1597118712562,734,释放,204,No Content,Peppa Pig Live 1-10,,true,,298,375,10,10,https://api.seatsio.net/events/2020-11-21-15/actions/release,0,0,533
+1597118711020,2328,注册,200,OK,Peppa Pig Live 1-4,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2328,0,11
+1597118713348,25,套餐信息,200,OK,Peppa Pig Live 1-4,text,true,,917,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70932/schedules_and_units,25,0,0
+1597118713373,17,get_seatio_info,200,,Peppa Pig Live 1-4,text,true,,556,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010680&date=2020-11-21,17,0,0
+1597118713391,26,assigned_seat,200,,Peppa Pig Live 1-4,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010680&date=2020-11-21,26,0,0
+1597118711108,2658,创建订单,200,,Peppa Pig Live 1-1,text,true,,585,1540,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2657,0,2
+1597118713418,455,assign_seat,200,,Peppa Pig Live 1-4,text,true,,1266,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,455,0,0
+1597118713873,94,加入购物车,200,,Peppa Pig Live 1-4,text,true,,411,536,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,94,0,0
+1597118711458,2639,创建订单,200,,Peppa Pig Live 1-7,text,true,,585,1543,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2639,0,2
+1597118713766,922,释放,204,No Content,Peppa Pig Live 1-1,,true,,298,375,10,10,https://api.seatsio.net/events/2020-11-21-19/actions/release,0,0,677
+1597118714098,744,释放,204,No Content,Peppa Pig Live 1-7,,true,,298,379,10,10,https://api.seatsio.net/events/2020-11-22-11/actions/release,0,0,544
+1597118712142,2715,创建订单,200,,Peppa Pig Live 1-2,text,true,,585,1539,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2715,0,1
+1597118712461,2406,下单,200,,Peppa Pig Live 1-5,text,true,,3738,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2406,0,0
+1597118712245,2698,创建订单,200,,Peppa Pig Live 1-6,text,true,,585,1538,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2698,0,1
+1597118712251,2755,创建订单,200,,Peppa Pig Live 1-3,text,true,,585,1543,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2755,0,1
+1597118712392,2811,创建订单,200,,Peppa Pig Live 1-9,text,true,,585,1540,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2811,0,2
+1597118713297,2288,注册,200,OK,Peppa Pig Live 1-10,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2288,0,10
+1597118714858,750,释放,204,No Content,Peppa Pig Live 1-2,,true,,298,375,10,10,https://api.seatsio.net/events/2020-11-21-19/actions/release,0,0,538
+1597118715586,30,套餐信息,200,OK,Peppa Pig Live 1-10,text,true,,1683,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70923/schedules_and_units,30,0,0
+1597118715642,17,get_seatio_info,200,,Peppa Pig Live 1-10,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010668&date=2020-11-21,17,0,0
+1597118714943,739,释放,204,No Content,Peppa Pig Live 1-6,,true,,298,374,10,10,https://api.seatsio.net/events/2020-11-22-11/actions/release,0,0,537
+1597118715660,24,assigned_seat,200,,Peppa Pig Live 1-10,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010668&date=2020-11-21,24,0,0
+1597118715007,757,释放,204,No Content,Peppa Pig Live 1-3,,true,,298,379,10,10,https://api.seatsio.net/events/2020-11-21-19/actions/release,0,0,547
+1597118715204,759,释放,204,No Content,Peppa Pig Live 1-9,,true,,298,375,10,10,https://api.seatsio.net/events/2020-11-22-15/actions/release,0,0,556
+1597118715684,457,assign_seat,200,,Peppa Pig Live 1-10,text,true,,1218,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,457,0,0
+1597118716142,92,加入购物车,200,,Peppa Pig Live 1-10,text,true,,411,532,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,92,0,0
+1597118713967,2320,下单,200,,Peppa Pig Live 1-4,text,true,,3733,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2320,0,0
+1597118714689,2096,注册,200,OK,Peppa Pig Live 1-1,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2096,0,11
+1597118716786,17,套餐信息,200,OK,Peppa Pig Live 1-1,text,true,,1556,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70929/schedules_and_units,17,0,0
+1597118716804,15,get_seatio_info,200,,Peppa Pig Live 1-1,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010677&date=2020-11-21,15,0,0
+1597118716820,20,assigned_seat,200,,Peppa Pig Live 1-1,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010677&date=2020-11-21,20,0,0
+1597118714843,2098,注册,200,OK,Peppa Pig Live 1-7,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2098,0,10
+1597118716941,18,套餐信息,200,OK,Peppa Pig Live 1-7,text,true,,923,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70919/schedules_and_units,18,0,0
+1597118716960,16,get_seatio_info,200,,Peppa Pig Live 1-7,text,true,,556,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010664&date=2020-11-22,16,0,0
+1597118716976,20,assigned_seat,200,,Peppa Pig Live 1-7,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010664&date=2020-11-22,20,0,0
+1597118716841,431,assign_seat,200,,Peppa Pig Live 1-1,text,true,,1230,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,430,0,0
+1597118717271,94,加入购物车,200,,Peppa Pig Live 1-1,text,true,,411,532,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,93,0,0
+1597118716995,432,assign_seat,200,,Peppa Pig Live 1-7,text,true,,1251,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,432,0,0
+1597118711784,5658,创建订单,200,,Peppa Pig Live 1-8,text,true,,585,1543,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,5658,0,1
+1597118717428,86,加入购物车,200,,Peppa Pig Live 1-7,text,true,,411,536,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,86,0,0
+1597118715609,2164,注册,200,OK,Peppa Pig Live 1-2,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2164,0,40
+1597118717773,17,套餐信息,200,OK,Peppa Pig Live 1-2,text,true,,925,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70930/schedules_and_units,17,0,0
+1597118715683,2112,注册,200,OK,Peppa Pig Live 1-6,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2112,0,15
+1597118717791,24,get_seatio_info,200,,Peppa Pig Live 1-2,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010678&date=2020-11-21,24,0,0
+1597118717794,23,套餐信息,200,OK,Peppa Pig Live 1-6,text,true,,923,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70918/schedules_and_units,23,0,0
+1597118717816,21,assigned_seat,200,,Peppa Pig Live 1-2,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010678&date=2020-11-21,21,0,0
+1597118717818,26,get_seatio_info,200,,Peppa Pig Live 1-6,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010663&date=2020-11-22,26,0,0
+1597118717845,19,assigned_seat,200,,Peppa Pig Live 1-6,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010663&date=2020-11-22,19,0,0
+1597118715765,2122,注册,200,OK,Peppa Pig Live 1-3,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2122,0,21
+1597118717886,20,套餐信息,200,OK,Peppa Pig Live 1-3,text,true,,926,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70931/schedules_and_units,20,0,0
+1597118717920,14,get_seatio_info,200,,Peppa Pig Live 1-3,text,true,,556,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010679&date=2020-11-21,14,0,0
+1597118717935,18,assigned_seat,200,,Peppa Pig Live 1-3,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010679&date=2020-11-21,18,0,0
+1597118715964,2134,注册,200,OK,Peppa Pig Live 1-9,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2134,0,13
+1597118718097,19,套餐信息,200,OK,Peppa Pig Live 1-9,text,true,,1683,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70923/schedules_and_units,19,0,0
+1597118718116,17,get_seatio_info,200,,Peppa Pig Live 1-9,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010668&date=2020-11-22,16,0,0
+1597118718133,19,assigned_seat,200,,Peppa Pig Live 1-9,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010668&date=2020-11-22,19,0,0
+1597118717442,732,释放,204,No Content,Peppa Pig Live 1-8,,true,,298,379,10,10,https://api.seatsio.net/events/2020-11-22-11/actions/release,0,0,529
+1597118717837,440,assign_seat,200,,Peppa Pig Live 1-2,text,true,,1218,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,440,0,0
+1597118717864,432,assign_seat,200,,Peppa Pig Live 1-6,text,true,,1222,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,432,0,0
+1597118717954,429,assign_seat,200,,Peppa Pig Live 1-3,text,true,,1253,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,429,0,0
+1597118718278,129,加入购物车,200,,Peppa Pig Live 1-2,text,true,,411,532,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,129,0,0
+1597118718296,133,加入购物车,200,,Peppa Pig Live 1-6,text,true,,411,531,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,133,0,0
+1597118716234,2267,下单,200,,Peppa Pig Live 1-10,text,true,,3737,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2267,0,0
+1597118718383,139,加入购物车,200,,Peppa Pig Live 1-3,text,true,,411,536,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,139,0,0
+1597118718152,526,assign_seat,200,,Peppa Pig Live 1-9,text,true,,1218,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,526,0,0
+1597118718679,96,加入购物车,200,,Peppa Pig Live 1-9,text,true,,411,532,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,96,0,0
+1597118716288,2558,创建订单,200,,Peppa Pig Live 1-4,text,true,,585,1543,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2558,0,2
+1597118718845,746,释放,204,No Content,Peppa Pig Live 1-4,,true,,298,379,10,10,https://api.seatsio.net/events/2020-11-21-19/actions/release,0,0,538
+1597118717365,2258,下单,200,,Peppa Pig Live 1-1,text,true,,3737,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2258,0,0
+1597118717514,2224,下单,200,,Peppa Pig Live 1-7,text,true,,3735,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2224,0,0
+1597118718175,2071,注册,200,OK,Peppa Pig Live 1-8,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2070,0,16
+1597118720246,20,套餐信息,200,OK,Peppa Pig Live 1-8,text,true,,914,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70921/schedules_and_units,20,0,0
+1597118720267,22,get_seatio_info,200,,Peppa Pig Live 1-8,text,true,,556,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010666&date=2020-11-22,22,0,0
+1597118720289,23,assigned_seat,200,,Peppa Pig Live 1-8,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010666&date=2020-11-22,23,0,0
+1597118718408,2246,下单,200,,Peppa Pig Live 1-2,text,true,,3729,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2246,0,0
+1597118718429,2244,下单,200,,Peppa Pig Live 1-6,text,true,,3730,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2244,0,0
+1597118718522,2229,下单,200,,Peppa Pig Live 1-3,text,true,,3733,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2229,0,0
+1597118720313,530,assign_seat,200,,Peppa Pig Live 1-8,text,true,,1266,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,530,0,0
+1597118720844,119,加入购物车,200,,Peppa Pig Live 1-8,text,true,,411,536,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,119,0,0
+1597118718776,2256,下单,200,,Peppa Pig Live 1-9,text,true,,3737,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2256,0,0
+1597118718501,2598,创建订单,200,,Peppa Pig Live 1-10,text,true,,585,1540,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2598,0,2
+1597118719592,2085,注册,200,OK,Peppa Pig Live 1-4,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2085,0,13
+1597118721678,22,套餐信息,200,OK,Peppa Pig Live 1-4,text,true,,917,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70932/schedules_and_units,22,0,0
+1597118721701,25,get_seatio_info,200,,Peppa Pig Live 1-4,text,true,,556,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010680&date=2020-11-21,24,0,0
+1597118721726,24,assigned_seat,200,,Peppa Pig Live 1-4,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010680&date=2020-11-21,23,0,0
+1597118721099,745,释放,204,No Content,Peppa Pig Live 1-10,,true,,298,375,10,10,https://api.seatsio.net/events/2020-11-21-15/actions/release,0,0,538
+1597118719624,2542,创建订单,200,,Peppa Pig Live 1-1,text,true,,585,1540,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2542,0,1
+1597118721750,442,assign_seat,200,,Peppa Pig Live 1-4,text,true,,1266,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,442,0,0
+1597118722193,108,加入购物车,200,,Peppa Pig Live 1-4,text,true,,411,536,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,108,0,0
+1597118719738,2657,创建订单,200,,Peppa Pig Live 1-7,text,true,,585,1543,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2657,0,2
+1597118714868,7591,创建订单,200,,Peppa Pig Live 1-5,text,true,,585,1539,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,7591,0,1
+1597118722166,741,释放,204,No Content,Peppa Pig Live 1-1,,true,,298,375,10,10,https://api.seatsio.net/events/2020-11-21-19/actions/release,0,0,538
+1597118722396,742,释放,204,No Content,Peppa Pig Live 1-7,,true,,298,379,10,10,https://api.seatsio.net/events/2020-11-22-11/actions/release,0,0,545
+1597118722459,741,释放,204,No Content,Peppa Pig Live 1-5,,true,,298,374,10,10,https://api.seatsio.net/events/2020-11-22-11/actions/release,0,0,532
+1597118720655,2665,创建订单,200,,Peppa Pig Live 1-2,text,true,,585,1539,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2665,0,1
+1597118720674,2659,创建订单,200,,Peppa Pig Live 1-6,text,true,,585,1538,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2659,0,2
+1597118720752,2627,创建订单,200,,Peppa Pig Live 1-3,text,true,,585,1543,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2627,0,4
+1597118721033,2600,创建订单,200,,Peppa Pig Live 1-9,text,true,,585,1540,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2600,0,1
+1597118721845,2070,注册,200,OK,Peppa Pig Live 1-10,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2070,0,13
+1597118723916,17,套餐信息,200,OK,Peppa Pig Live 1-10,text,true,,1683,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70923/schedules_and_units,17,0,0
+1597118723934,15,get_seatio_info,200,,Peppa Pig Live 1-10,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010668&date=2020-11-21,15,0,0
+1597118723950,21,assigned_seat,200,,Peppa Pig Live 1-10,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010668&date=2020-11-21,21,0,0
+1597118723334,733,释放,204,No Content,Peppa Pig Live 1-6,,true,,298,374,10,10,https://api.seatsio.net/events/2020-11-22-11/actions/release,0,0,534
+1597118723321,756,释放,204,No Content,Peppa Pig Live 1-2,,true,,298,375,10,10,https://api.seatsio.net/events/2020-11-21-19/actions/release,0,0,549
+1597118723379,745,释放,204,No Content,Peppa Pig Live 1-3,,true,,298,379,10,10,https://api.seatsio.net/events/2020-11-21-19/actions/release,0,0,541
+1597118723633,737,释放,204,No Content,Peppa Pig Live 1-9,,true,,298,375,10,10,https://api.seatsio.net/events/2020-11-22-15/actions/release,0,0,541
+1597118723971,447,assign_seat,200,,Peppa Pig Live 1-10,text,true,,1218,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,447,0,0
+1597118724419,112,加入购物车,200,,Peppa Pig Live 1-10,text,true,,411,532,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,111,0,0
+1597118722301,2256,下单,200,,Peppa Pig Live 1-4,text,true,,3733,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2256,0,0
+1597118722908,2074,注册,200,OK,Peppa Pig Live 1-1,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2074,0,13
+1597118724983,18,套餐信息,200,OK,Peppa Pig Live 1-1,text,true,,1556,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70929/schedules_and_units,18,0,0
+1597118725001,16,get_seatio_info,200,,Peppa Pig Live 1-1,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010677&date=2020-11-21,16,0,0
+1597118725018,25,assigned_seat,200,,Peppa Pig Live 1-1,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010677&date=2020-11-21,25,0,0
+1597118723139,2330,注册,200,OK,Peppa Pig Live 1-7,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2330,0,11
+1597118723201,2269,注册,200,OK,Peppa Pig Live 1-5,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2269,0,12
+1597118725043,445,assign_seat,200,,Peppa Pig Live 1-1,text,true,,1230,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,445,0,0
+1597118725469,26,套餐信息,200,OK,Peppa Pig Live 1-7,text,true,,923,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70919/schedules_and_units,26,0,0
+1597118725471,24,套餐信息,200,OK,Peppa Pig Live 1-5,text,true,,1555,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70914/schedules_and_units,24,0,0
+1597118725496,22,get_seatio_info,200,,Peppa Pig Live 1-7,text,true,,556,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010664&date=2020-11-22,22,0,0
+1597118725496,27,get_seatio_info,200,,Peppa Pig Live 1-5,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010662&date=2020-11-22,26,0,0
+1597118725523,31,assigned_seat,200,,Peppa Pig Live 1-5,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010662&date=2020-11-22,31,0,0
+1597118725519,35,assigned_seat,200,,Peppa Pig Live 1-7,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010664&date=2020-11-22,35,0,0
+1597118725488,98,加入购物车,200,,Peppa Pig Live 1-1,text,true,,411,532,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,98,0,0
+1597118725555,426,assign_seat,200,,Peppa Pig Live 1-5,text,true,,1218,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,426,0,0
+1597118725555,438,assign_seat,200,,Peppa Pig Live 1-7,text,true,,1251,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,438,0,0
+1597118725982,110,加入购物车,200,,Peppa Pig Live 1-5,text,true,,411,532,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,110,0,0
+1597118725993,102,加入购物车,200,,Peppa Pig Live 1-7,text,true,,411,536,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,102,0,0
+1597118724068,2115,注册,200,OK,Peppa Pig Live 1-6,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2115,0,11
+1597118724077,2111,注册,200,OK,Peppa Pig Live 1-2,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2111,0,10
+1597118726183,18,套餐信息,200,OK,Peppa Pig Live 1-6,text,true,,923,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70918/schedules_and_units,18,0,0
+1597118726189,18,套餐信息,200,OK,Peppa Pig Live 1-2,text,true,,925,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70930/schedules_and_units,18,0,0
+1597118724125,2092,注册,200,OK,Peppa Pig Live 1-3,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2092,0,9
+1597118726201,46,get_seatio_info,200,,Peppa Pig Live 1-6,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010663&date=2020-11-22,46,0,0
+1597118726217,34,套餐信息,200,OK,Peppa Pig Live 1-3,text,true,,926,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70931/schedules_and_units,34,0,0
+1597118726208,63,get_seatio_info,200,,Peppa Pig Live 1-2,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010678&date=2020-11-21,62,0,0
+1597118726248,52,assigned_seat,200,,Peppa Pig Live 1-6,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010663&date=2020-11-22,52,0,0
+1597118726251,51,get_seatio_info,200,,Peppa Pig Live 1-3,text,true,,556,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010679&date=2020-11-21,51,0,0
+1597118726271,36,assigned_seat,200,,Peppa Pig Live 1-2,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010678&date=2020-11-21,36,0,0
+1597118726302,45,assigned_seat,200,,Peppa Pig Live 1-3,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010679&date=2020-11-21,45,0,0
+1597118724371,2086,注册,200,OK,Peppa Pig Live 1-9,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2086,0,10
+1597118726457,31,套餐信息,200,OK,Peppa Pig Live 1-9,text,true,,1683,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70923/schedules_and_units,31,0,0
+1597118726489,16,get_seatio_info,200,,Peppa Pig Live 1-9,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010668&date=2020-11-22,16,0,0
+1597118726505,24,assigned_seat,200,,Peppa Pig Live 1-9,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010668&date=2020-11-22,24,0,0
+1597118726301,466,assign_seat,200,,Peppa Pig Live 1-6,text,true,,1222,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,466,0,0
+1597118726307,463,assign_seat,200,,Peppa Pig Live 1-2,text,true,,1218,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,462,0,0
+1597118726348,453,assign_seat,200,,Peppa Pig Live 1-3,text,true,,1253,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,452,0,0
+1597118724531,2294,下单,200,,Peppa Pig Live 1-10,text,true,,3737,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2294,0,0
+1597118726770,172,加入购物车,200,,Peppa Pig Live 1-2,text,true,,411,532,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,172,0,0
+1597118726767,175,加入购物车,200,,Peppa Pig Live 1-6,text,true,,411,531,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,175,0,0
+1597118726801,180,加入购物车,200,,Peppa Pig Live 1-3,text,true,,411,536,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,180,0,0
+1597118726530,544,assign_seat,200,,Peppa Pig Live 1-9,text,true,,1218,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,544,0,0
+1597118727075,173,加入购物车,200,,Peppa Pig Live 1-9,text,true,,411,532,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,173,0,0
+1597118724558,2739,创建订单,200,,Peppa Pig Live 1-4,text,true,,585,1543,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2739,0,2
+1597118720963,6432,下单,200,,Peppa Pig Live 1-8,text,true,,3735,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,6432,0,0
+1597118725586,2401,下单,200,,Peppa Pig Live 1-1,text,true,,3737,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2401,0,0
+1597118727298,755,释放,204,No Content,Peppa Pig Live 1-4,,true,,298,379,10,10,https://api.seatsio.net/events/2020-11-21-19/actions/release,0,0,547
+1597118726096,2429,下单,200,,Peppa Pig Live 1-7,text,true,,3735,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2429,0,0
+1597118726092,2498,下单,200,,Peppa Pig Live 1-5,text,true,,3739,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2498,0,0
+1597118726982,2524,下单,200,,Peppa Pig Live 1-3,text,true,,3733,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2523,0,0
+1597118726942,2579,下单,200,,Peppa Pig Live 1-2,text,true,,3729,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2579,0,0
+1597118727249,2513,下单,200,,Peppa Pig Live 1-9,text,true,,3737,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2513,0,0
+1597118726826,3057,创建订单,200,,Peppa Pig Live 1-10,text,true,,585,1540,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,3057,0,1
+1597118728054,2116,注册,200,OK,Peppa Pig Live 1-4,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2116,0,17
+1597118730172,35,套餐信息,200,OK,Peppa Pig Live 1-4,text,true,,917,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70932/schedules_and_units,35,0,0
+1597118730208,36,get_seatio_info,200,,Peppa Pig Live 1-4,text,true,,556,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010680&date=2020-11-21,36,0,0
+1597118730244,59,assigned_seat,200,,Peppa Pig Live 1-4,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010680&date=2020-11-21,59,0,0
+1597118727396,3130,创建订单,200,,Peppa Pig Live 1-8,text,true,,585,1543,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,3130,0,1
+1597118729883,737,释放,204,No Content,Peppa Pig Live 1-10,,true,,298,375,10,10,https://api.seatsio.net/events/2020-11-21-15/actions/release,0,0,534
+1597118730303,562,assign_seat,200,,Peppa Pig Live 1-4,text,true,,1266,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,562,0,0
+1597118727988,3116,创建订单,200,,Peppa Pig Live 1-1,text,true,,585,1540,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,3116,0,2
+1597118730866,272,加入购物车,200,,Peppa Pig Live 1-4,text,true,,411,536,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,272,0,0
+1597118730527,725,释放,204,No Content,Peppa Pig Live 1-8,,true,,298,379,10,10,https://api.seatsio.net/events/2020-11-22-11/actions/release,0,0,530
+1597118728591,3091,创建订单,200,,Peppa Pig Live 1-5,text,true,,585,1540,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,3091,0,2
+1597118728526,3163,创建订单,200,,Peppa Pig Live 1-7,text,true,,585,1543,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,3163,0,2
+1597118731105,733,释放,204,No Content,Peppa Pig Live 1-1,,true,,298,375,10,10,https://api.seatsio.net/events/2020-11-21-19/actions/release,0,0,530
+1597118726943,5468,下单,200,,Peppa Pig Live 1-6,text,true,,3730,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,5468,0,0
+1597118731690,735,释放,204,No Content,Peppa Pig Live 1-7,,true,,298,379,10,10,https://api.seatsio.net/events/2020-11-22-11/actions/release,0,0,538
+1597118731682,752,释放,204,No Content,Peppa Pig Live 1-5,,true,,298,375,10,10,https://api.seatsio.net/events/2020-11-22-11/actions/release,0,0,548
+1597118729522,3109,创建订单,200,,Peppa Pig Live 1-2,text,true,,585,1539,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,3109,0,1
+1597118729506,3160,创建订单,200,,Peppa Pig Live 1-3,text,true,,585,1543,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,3160,0,2
+1597118730621,2099,注册,200,OK,Peppa Pig Live 1-10,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2099,0,9
+1597118732721,26,套餐信息,200,OK,Peppa Pig Live 1-10,text,true,,1683,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70923/schedules_and_units,26,0,0
+1597118732747,20,get_seatio_info,200,,Peppa Pig Live 1-10,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010668&date=2020-11-21,20,0,0
+1597118732768,28,assigned_seat,200,,Peppa Pig Live 1-10,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010668&date=2020-11-21,28,0,0
+1597118729762,3109,创建订单,200,,Peppa Pig Live 1-9,text,true,,585,1540,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,3109,0,2
+1597118732797,516,assign_seat,200,,Peppa Pig Live 1-10,text,true,,1218,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,516,0,0
+1597118731253,2118,注册,200,OK,Peppa Pig Live 1-8,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2118,0,17
+1597118732632,742,释放,204,No Content,Peppa Pig Live 1-2,,true,,298,375,10,10,https://api.seatsio.net/events/2020-11-21-19/actions/release,0,0,541
+1597118733372,25,套餐信息,200,OK,Peppa Pig Live 1-8,text,true,,914,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70921/schedules_and_units,25,0,0
+1597118732668,740,释放,204,No Content,Peppa Pig Live 1-3,,true,,298,379,10,10,https://api.seatsio.net/events/2020-11-21-19/actions/release,0,0,542
+1597118733398,22,get_seatio_info,200,,Peppa Pig Live 1-8,text,true,,556,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010666&date=2020-11-22,22,0,0
+1597118733313,128,加入购物车,200,,Peppa Pig Live 1-10,text,true,,411,532,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,128,0,0
+1597118733420,27,assigned_seat,200,,Peppa Pig Live 1-8,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010666&date=2020-11-22,27,0,0
+1597118732872,732,释放,204,No Content,Peppa Pig Live 1-9,,true,,298,375,10,10,https://api.seatsio.net/events/2020-11-22-15/actions/release,0,0,538
+1597118731839,2109,注册,200,OK,Peppa Pig Live 1-1,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2108,0,10
+1597118733949,17,套餐信息,200,OK,Peppa Pig Live 1-1,text,true,,1556,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70929/schedules_and_units,17,0,0
+1597118733447,535,assign_seat,200,,Peppa Pig Live 1-8,text,true,,1266,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,535,0,0
+1597118733966,20,get_seatio_info,200,,Peppa Pig Live 1-1,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010677&date=2020-11-21,20,0,0
+1597118733987,21,assigned_seat,200,,Peppa Pig Live 1-1,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010677&date=2020-11-21,21,0,0
+1597118733982,99,加入购物车,200,,Peppa Pig Live 1-8,text,true,,411,536,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,98,0,0
+1597118734008,525,assign_seat,200,,Peppa Pig Live 1-1,text,true,,1230,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,525,0,0
+1597118732436,2113,注册,200,OK,Peppa Pig Live 1-5,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2113,0,9
+1597118732427,2122,注册,200,OK,Peppa Pig Live 1-7,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2122,0,10
+1597118734549,29,套餐信息,200,OK,Peppa Pig Live 1-5,text,true,,1555,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70914/schedules_and_units,29,0,0
+1597118734550,30,套餐信息,200,OK,Peppa Pig Live 1-7,text,true,,923,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70919/schedules_and_units,30,0,0
+1597118734579,37,get_seatio_info,200,,Peppa Pig Live 1-5,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010662&date=2020-11-22,37,0,0
+1597118734580,40,get_seatio_info,200,,Peppa Pig Live 1-7,text,true,,556,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010664&date=2020-11-22,40,0,0
+1597118734534,98,加入购物车,200,,Peppa Pig Live 1-1,text,true,,411,532,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,98,0,0
+1597118734621,49,assigned_seat,200,,Peppa Pig Live 1-7,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010664&date=2020-11-22,49,0,0
+1597118734616,60,assigned_seat,200,,Peppa Pig Live 1-5,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010662&date=2020-11-22,60,0,0
+1597118732413,2659,创建订单,200,,Peppa Pig Live 1-6,text,true,,585,1538,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2659,0,2
+1597118734676,436,assign_seat,200,,Peppa Pig Live 1-5,text,true,,1218,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,436,0,0
+1597118734670,529,assign_seat,200,,Peppa Pig Live 1-7,text,true,,1251,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,529,0,0
+1597118735113,91,加入购物车,200,,Peppa Pig Live 1-5,text,true,,411,532,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,90,0,0
+1597118735200,118,加入购物车,200,,Peppa Pig Live 1-7,text,true,,411,536,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,118,0,0
+1597118733375,2106,注册,200,OK,Peppa Pig Live 1-2,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2106,0,11
+1597118733409,2100,注册,200,OK,Peppa Pig Live 1-3,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2100,0,12
+1597118735481,54,套餐信息,200,OK,Peppa Pig Live 1-2,text,true,,925,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70930/schedules_and_units,54,0,0
+1597118735509,56,套餐信息,200,OK,Peppa Pig Live 1-3,text,true,,926,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70931/schedules_and_units,56,0,0
+1597118735536,60,get_seatio_info,200,,Peppa Pig Live 1-2,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010678&date=2020-11-21,59,0,0
+1597118735566,44,get_seatio_info,200,,Peppa Pig Live 1-3,text,true,,556,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010679&date=2020-11-21,44,0,0
+1597118735596,26,assigned_seat,200,,Peppa Pig Live 1-2,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010678&date=2020-11-21,26,0,0
+1597118735610,27,assigned_seat,200,,Peppa Pig Live 1-3,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010679&date=2020-11-21,27,0,0
+1597118733605,2078,注册,200,OK,Peppa Pig Live 1-9,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2078,0,9
+1597118735683,27,套餐信息,200,OK,Peppa Pig Live 1-9,text,true,,1683,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70923/schedules_and_units,27,0,0
+1597118735710,20,get_seatio_info,200,,Peppa Pig Live 1-9,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010668&date=2020-11-22,20,0,0
+1597118733441,2290,下单,200,,Peppa Pig Live 1-10,text,true,,3737,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2290,0,0
+1597118735730,22,assigned_seat,200,,Peppa Pig Live 1-9,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010668&date=2020-11-22,22,0,0
+1597118735072,740,释放,204,No Content,Peppa Pig Live 1-6,,true,,298,374,10,10,https://api.seatsio.net/events/2020-11-22-11/actions/release,0,0,531
+1597118735638,422,assign_seat,200,,Peppa Pig Live 1-3,text,true,,1253,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,422,0,0
+1597118735622,515,assign_seat,200,,Peppa Pig Live 1-2,text,true,,1218,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,515,0,0
+1597118736061,113,加入购物车,200,,Peppa Pig Live 1-3,text,true,,411,536,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,113,0,0
+1597118735752,432,assign_seat,200,,Peppa Pig Live 1-9,text,true,,1218,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,432,0,0
+1597118736137,141,加入购物车,200,,Peppa Pig Live 1-2,text,true,,411,532,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,141,0,0
+1597118736193,134,加入购物车,200,,Peppa Pig Live 1-9,text,true,,411,532,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,133,0,0
+1597118734081,2290,下单,200,,Peppa Pig Live 1-8,text,true,,3735,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2290,0,0
+1597118734632,2268,下单,200,,Peppa Pig Live 1-1,text,true,,3737,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2268,0,0
+1597118731139,6192,下单,200,,Peppa Pig Live 1-4,text,true,,3733,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,6192,0,0
+1597118735204,2241,下单,200,,Peppa Pig Live 1-5,text,true,,3739,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2241,0,0
+1597118735319,2308,下单,200,,Peppa Pig Live 1-7,text,true,,3735,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2307,0,0
+1597118735812,2078,注册,200,OK,Peppa Pig Live 1-6,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2078,0,9
+1597118737890,26,套餐信息,200,OK,Peppa Pig Live 1-6,text,true,,923,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70918/schedules_and_units,26,0,0
+1597118737916,16,get_seatio_info,200,,Peppa Pig Live 1-6,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010663&date=2020-11-22,16,0,0
+1597118737933,21,assigned_seat,200,,Peppa Pig Live 1-6,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010663&date=2020-11-22,20,0,0
+1597118737954,432,assign_seat,200,,Peppa Pig Live 1-6,text,true,,1222,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,432,0,0
+1597118735731,2773,创建订单,200,,Peppa Pig Live 1-10,text,true,,585,1540,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2773,0,2
+1597118736175,2378,下单,200,,Peppa Pig Live 1-3,text,true,,3733,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2378,0,0
+1597118736279,2295,下单,200,,Peppa Pig Live 1-2,text,true,,3729,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2295,0,0
+1597118736327,2288,下单,200,,Peppa Pig Live 1-9,text,true,,3737,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2288,0,0
+1597118738386,233,加入购物车,200,,Peppa Pig Live 1-6,text,true,,411,531,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,233,0,0
+1597118736372,2670,创建订单,200,,Peppa Pig Live 1-8,text,true,,585,1543,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2670,0,1
+1597118738505,749,释放,204,No Content,Peppa Pig Live 1-10,,true,,298,375,10,10,https://api.seatsio.net/events/2020-11-21-15/actions/release,0,0,537
+1597118739042,735,释放,204,No Content,Peppa Pig Live 1-8,,true,,298,379,10,10,https://api.seatsio.net/events/2020-11-22-11/actions/release,0,0,536
+1597118737332,2606,创建订单,200,,Peppa Pig Live 1-4,text,true,,585,1543,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2606,0,2
+1597118737446,2748,创建订单,200,,Peppa Pig Live 1-5,text,true,,585,1540,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2748,0,1
+1597118737627,2701,创建订单,200,,Peppa Pig Live 1-7,text,true,,585,1543,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2701,0,2
+1597118739939,735,释放,204,No Content,Peppa Pig Live 1-4,,true,,298,379,10,10,https://api.seatsio.net/events/2020-11-21-19/actions/release,0,0,538
+1597118740194,738,释放,204,No Content,Peppa Pig Live 1-5,,true,,298,375,10,10,https://api.seatsio.net/events/2020-11-22-11/actions/release,0,0,530
+1597118738619,2325,下单,200,,Peppa Pig Live 1-6,text,true,,3730,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2325,0,0
+1597118740329,741,释放,204,No Content,Peppa Pig Live 1-7,,true,,298,379,10,10,https://api.seatsio.net/events/2020-11-22-11/actions/release,0,0,536
+1597118738554,2735,创建订单,200,,Peppa Pig Live 1-3,text,true,,585,1543,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2735,0,2
+1597118739255,2088,注册,200,OK,Peppa Pig Live 1-10,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2088,0,9
+1597118738575,2814,创建订单,200,,Peppa Pig Live 1-2,text,true,,585,1539,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2814,0,1
+1597118738615,2778,创建订单,200,,Peppa Pig Live 1-9,text,true,,585,1540,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2778,0,2
+1597118741344,58,套餐信息,200,OK,Peppa Pig Live 1-10,text,true,,1683,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70923/schedules_and_units,58,0,0
+1597118741402,25,get_seatio_info,200,,Peppa Pig Live 1-10,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010668&date=2020-11-21,25,0,0
+1597118741428,20,assigned_seat,200,,Peppa Pig Live 1-10,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010668&date=2020-11-21,20,0,0
+1597118739778,2089,注册,200,OK,Peppa Pig Live 1-8,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2089,0,11
+1597118741868,24,套餐信息,200,OK,Peppa Pig Live 1-8,text,true,,914,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70921/schedules_and_units,24,0,0
+1597118741892,16,get_seatio_info,200,,Peppa Pig Live 1-8,text,true,,556,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010666&date=2020-11-22,16,0,0
+1597118741908,29,assigned_seat,200,,Peppa Pig Live 1-8,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010666&date=2020-11-22,29,0,0
+1597118741449,518,assign_seat,200,,Peppa Pig Live 1-10,text,true,,1218,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,518,0,0
+1597118741290,737,释放,204,No Content,Peppa Pig Live 1-3,,true,,298,379,10,10,https://api.seatsio.net/events/2020-11-21-19/actions/release,0,0,533
+1597118741967,139,加入购物车,200,,Peppa Pig Live 1-10,text,true,,411,532,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,138,0,0
+1597118741390,738,释放,204,No Content,Peppa Pig Live 1-2,,true,,298,375,10,10,https://api.seatsio.net/events/2020-11-21-19/actions/release,0,0,538
+1597118741393,753,释放,204,No Content,Peppa Pig Live 1-9,,true,,298,375,10,10,https://api.seatsio.net/events/2020-11-22-15/actions/release,0,0,545
+1597118741937,430,assign_seat,200,,Peppa Pig Live 1-8,text,true,,1266,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,430,0,0
+1597118742368,143,加入购物车,200,,Peppa Pig Live 1-8,text,true,,411,536,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,143,0,0
+1597118736900,5636,创建订单,200,,Peppa Pig Live 1-1,text,true,,585,1540,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,5636,0,2
+1597118740675,2070,注册,200,OK,Peppa Pig Live 1-4,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2070,0,9
+1597118742746,37,套餐信息,200,OK,Peppa Pig Live 1-4,text,true,,917,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70932/schedules_and_units,37,0,0
+1597118742784,14,get_seatio_info,200,,Peppa Pig Live 1-4,text,true,,556,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010680&date=2020-11-21,14,0,0
+1597118742798,19,assigned_seat,200,,Peppa Pig Live 1-4,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010680&date=2020-11-21,19,0,0
+1597118740933,2079,注册,200,OK,Peppa Pig Live 1-5,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2079,0,9
+1597118743012,31,套餐信息,200,OK,Peppa Pig Live 1-5,text,true,,1555,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70914/schedules_and_units,31,0,0
+1597118743043,15,get_seatio_info,200,,Peppa Pig Live 1-5,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010662&date=2020-11-22,15,0,0
+1597118743058,16,assigned_seat,200,,Peppa Pig Live 1-5,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010662&date=2020-11-22,16,0,0
+1597118741071,2090,注册,200,OK,Peppa Pig Live 1-7,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2090,0,9
+1597118743162,31,套餐信息,200,OK,Peppa Pig Live 1-7,text,true,,923,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70919/schedules_and_units,31,0,0
+1597118743194,16,get_seatio_info,200,,Peppa Pig Live 1-7,text,true,,556,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010664&date=2020-11-22,16,0,0
+1597118743211,22,assigned_seat,200,,Peppa Pig Live 1-7,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010664&date=2020-11-22,22,0,0
+1597118742817,417,assign_seat,200,,Peppa Pig Live 1-4,text,true,,1266,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,417,0,0
+1597118742537,747,释放,204,No Content,Peppa Pig Live 1-1,,true,,298,375,10,10,https://api.seatsio.net/events/2020-11-21-19/actions/release,0,0,545
+1597118743235,139,加入购物车,200,,Peppa Pig Live 1-4,text,true,,411,536,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,139,0,0
+1597118743075,521,assign_seat,200,,Peppa Pig Live 1-5,text,true,,1218,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,521,0,0
+1597118740945,2679,创建订单,200,,Peppa Pig Live 1-6,text,true,,585,1538,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2679,0,1
+1597118743233,435,assign_seat,200,,Peppa Pig Live 1-7,text,true,,1251,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,435,0,0
+1597118743597,121,加入购物车,200,,Peppa Pig Live 1-5,text,true,,411,532,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,121,0,0
+1597118743668,87,加入购物车,200,,Peppa Pig Live 1-7,text,true,,411,536,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,87,0,0
+1597118742028,2076,注册,200,OK,Peppa Pig Live 1-3,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2076,0,10
+1597118744105,17,套餐信息,200,OK,Peppa Pig Live 1-3,text,true,,926,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70931/schedules_and_units,17,0,0
+1597118744122,16,get_seatio_info,200,,Peppa Pig Live 1-3,text,true,,556,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010679&date=2020-11-21,16,0,0
+1597118744138,17,assigned_seat,200,,Peppa Pig Live 1-3,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010679&date=2020-11-21,17,0,0
+1597118742128,2081,注册,200,OK,Peppa Pig Live 1-2,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2081,0,12
+1597118742147,2078,注册,200,OK,Peppa Pig Live 1-9,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2078,0,9
+1597118744209,21,套餐信息,200,OK,Peppa Pig Live 1-2,text,true,,925,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70930/schedules_and_units,21,0,0
+1597118744225,23,套餐信息,200,OK,Peppa Pig Live 1-9,text,true,,1683,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70923/schedules_and_units,23,0,0
+1597118744231,28,get_seatio_info,200,,Peppa Pig Live 1-2,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010678&date=2020-11-21,28,0,0
+1597118744248,20,get_seatio_info,200,,Peppa Pig Live 1-9,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010668&date=2020-11-22,20,0,0
+1597118744259,21,assigned_seat,200,,Peppa Pig Live 1-2,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010678&date=2020-11-21,21,0,0
+1597118744269,26,assigned_seat,200,,Peppa Pig Live 1-9,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010668&date=2020-11-22,26,0,0
+1597118743624,749,释放,204,No Content,Peppa Pig Live 1-6,,true,,298,374,10,10,https://api.seatsio.net/events/2020-11-22-11/actions/release,0,0,533
+1597118744156,430,assign_seat,200,,Peppa Pig Live 1-3,text,true,,1253,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,430,0,0
+1597118744586,85,加入购物车,200,,Peppa Pig Live 1-3,text,true,,411,536,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,85,0,0
+1597118744295,458,assign_seat,200,,Peppa Pig Live 1-9,text,true,,1218,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,458,0,0
+1597118742512,2276,下单,200,,Peppa Pig Live 1-8,text,true,,3735,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2276,0,0
+1597118744280,515,assign_seat,200,,Peppa Pig Live 1-2,text,true,,1218,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,515,0,0
+1597118744753,103,加入购物车,200,,Peppa Pig Live 1-9,text,true,,411,532,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,103,0,0
+1597118744795,95,加入购物车,200,,Peppa Pig Live 1-2,text,true,,411,532,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,95,0,0
+1597118743284,2070,注册,200,OK,Peppa Pig Live 1-1,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2070,0,10
+1597118745354,18,套餐信息,200,OK,Peppa Pig Live 1-1,text,true,,1556,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70929/schedules_and_units,17,0,0
+1597118745372,14,get_seatio_info,200,,Peppa Pig Live 1-1,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010677&date=2020-11-21,14,0,0
+1597118745386,16,assigned_seat,200,,Peppa Pig Live 1-1,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010677&date=2020-11-21,16,0,0
+1597118743375,2202,下单,200,,Peppa Pig Live 1-4,text,true,,3733,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2202,0,0
+1597118743719,2172,下单,200,,Peppa Pig Live 1-5,text,true,,3739,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2172,0,0
+1597118745403,514,assign_seat,200,,Peppa Pig Live 1-1,text,true,,1230,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,514,0,0
+1597118743756,2226,下单,200,,Peppa Pig Live 1-7,text,true,,3735,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2226,0,0
+1597118745918,122,加入购物车,200,,Peppa Pig Live 1-1,text,true,,411,532,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,121,0,0
+1597118744374,2064,注册,200,OK,Peppa Pig Live 1-6,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2064,0,9
+1597118746439,18,套餐信息,200,OK,Peppa Pig Live 1-6,text,true,,923,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70918/schedules_and_units,18,0,0
+1597118746457,17,get_seatio_info,200,,Peppa Pig Live 1-6,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010663&date=2020-11-22,17,0,0
+1597118746474,17,assigned_seat,200,,Peppa Pig Live 1-6,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010663&date=2020-11-22,17,0,0
+1597118744672,2206,下单,200,,Peppa Pig Live 1-3,text,true,,3733,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2206,0,0
+1597118746491,426,assign_seat,200,,Peppa Pig Live 1-6,text,true,,1222,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,426,0,0
+1597118746917,85,加入购物车,200,,Peppa Pig Live 1-6,text,true,,411,531,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,85,0,0
+1597118744856,2190,下单,200,,Peppa Pig Live 1-9,text,true,,3737,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2190,0,0
+1597118744890,2195,下单,200,,Peppa Pig Live 1-2,text,true,,3729,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2195,0,0
+1597118742106,5256,下单,200,,Peppa Pig Live 1-10,text,true,,3737,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,5256,0,0
+1597118744788,2575,创建订单,200,,Peppa Pig Live 1-8,text,true,,585,1543,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2575,0,2
+1597118747364,741,释放,204,No Content,Peppa Pig Live 1-8,,true,,298,379,10,10,https://api.seatsio.net/events/2020-11-22-11/actions/release,0,0,538
+1597118745578,2542,创建订单,200,,Peppa Pig Live 1-4,text,true,,585,1543,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2542,0,1
+1597118745892,2572,创建订单,200,,Peppa Pig Live 1-5,text,true,,585,1540,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2572,0,2
+1597118745982,2579,创建订单,200,,Peppa Pig Live 1-7,text,true,,585,1543,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2579,0,2
+1597118748120,718,释放,204,No Content,Peppa Pig Live 1-4,,true,,298,379,10,10,https://api.seatsio.net/events/2020-11-21-19/actions/release,0,0,525
+1597118748465,741,释放,204,No Content,Peppa Pig Live 1-5,,true,,298,375,10,10,https://api.seatsio.net/events/2020-11-22-11/actions/release,0,0,532
+1597118747002,2230,下单,200,,Peppa Pig Live 1-6,text,true,,3730,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2230,0,0
+1597118748562,763,释放,204,No Content,Peppa Pig Live 1-7,,true,,298,379,10,10,https://api.seatsio.net/events/2020-11-22-11/actions/release,0,0,557
+1597118746878,2620,创建订单,200,,Peppa Pig Live 1-3,text,true,,585,1543,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2620,0,2
+1597118747047,2606,创建订单,200,,Peppa Pig Live 1-9,text,true,,585,1540,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2606,0,1
+1597118747086,2648,创建订单,200,,Peppa Pig Live 1-2,text,true,,585,1539,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2648,0,1
+1597118747363,2558,创建订单,200,,Peppa Pig Live 1-10,text,true,,585,1540,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2558,0,1
+1597118748106,2068,注册,200,OK,Peppa Pig Live 1-8,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2068,0,10
+1597118750175,18,套餐信息,200,OK,Peppa Pig Live 1-8,text,true,,914,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70921/schedules_and_units,18,0,0
+1597118750194,15,get_seatio_info,200,,Peppa Pig Live 1-8,text,true,,556,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010666&date=2020-11-22,15,0,0
+1597118750210,20,assigned_seat,200,,Peppa Pig Live 1-8,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010666&date=2020-11-22,20,0,0
+1597118749499,745,释放,204,No Content,Peppa Pig Live 1-3,,true,,298,379,10,10,https://api.seatsio.net/events/2020-11-21-19/actions/release,0,0,535
+1597118749653,731,释放,204,No Content,Peppa Pig Live 1-9,,true,,298,375,10,10,https://api.seatsio.net/events/2020-11-22-15/actions/release,0,0,532
+1597118749735,730,释放,204,No Content,Peppa Pig Live 1-2,,true,,298,375,10,10,https://api.seatsio.net/events/2020-11-21-19/actions/release,0,0,534
+1597118750231,429,assign_seat,200,,Peppa Pig Live 1-8,text,true,,1266,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,429,0,0
+1597118749921,741,释放,204,No Content,Peppa Pig Live 1-10,,true,,298,375,10,10,https://api.seatsio.net/events/2020-11-21-15/actions/release,0,0,539
+1597118750660,114,加入购物车,200,,Peppa Pig Live 1-8,text,true,,411,536,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,114,0,0
+1597118748839,2118,注册,200,OK,Peppa Pig Live 1-4,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2118,0,15
+1597118750957,24,套餐信息,200,OK,Peppa Pig Live 1-4,text,true,,917,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70932/schedules_and_units,24,0,0
+1597118750981,15,get_seatio_info,200,,Peppa Pig Live 1-4,text,true,,556,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010680&date=2020-11-21,15,0,0
+1597118750996,17,assigned_seat,200,,Peppa Pig Live 1-4,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010680&date=2020-11-21,16,0,0
+1597118749207,2090,注册,200,OK,Peppa Pig Live 1-5,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2090,0,9
+1597118751297,17,套餐信息,200,OK,Peppa Pig Live 1-5,text,true,,1555,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70914/schedules_and_units,17,0,0
+1597118751314,14,get_seatio_info,200,,Peppa Pig Live 1-5,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010662&date=2020-11-22,13,0,0
+1597118751328,15,assigned_seat,200,,Peppa Pig Live 1-5,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010662&date=2020-11-22,15,0,0
+1597118749326,2095,注册,200,OK,Peppa Pig Live 1-7,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2095,0,10
+1597118751422,16,套餐信息,200,OK,Peppa Pig Live 1-7,text,true,,923,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70919/schedules_and_units,16,0,0
+1597118751439,13,get_seatio_info,200,,Peppa Pig Live 1-7,text,true,,556,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010664&date=2020-11-22,13,0,0
+1597118751013,447,assign_seat,200,,Peppa Pig Live 1-4,text,true,,1266,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,447,0,0
+1597118751453,16,assigned_seat,200,,Peppa Pig Live 1-7,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010664&date=2020-11-22,16,0,0
+1597118751460,75,加入购物车,200,,Peppa Pig Live 1-4,text,true,,411,536,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,74,0,0
+1597118749233,2546,创建订单,200,,Peppa Pig Live 1-6,text,true,,585,1538,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2546,0,1
+1597118751343,436,assign_seat,200,,Peppa Pig Live 1-5,text,true,,1218,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,436,0,0
+1597118751779,75,加入购物车,200,,Peppa Pig Live 1-5,text,true,,411,532,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,75,0,0
+1597118751469,423,assign_seat,200,,Peppa Pig Live 1-7,text,true,,1251,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,423,0,0
+1597118751893,82,加入购物车,200,,Peppa Pig Live 1-7,text,true,,411,536,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,82,0,0
+1597118746040,6316,下单,200,,Peppa Pig Live 1-1,text,true,,3737,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,6316,0,0
+1597118750244,2117,注册,200,OK,Peppa Pig Live 1-3,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2117,0,11
+1597118752362,21,套餐信息,200,OK,Peppa Pig Live 1-3,text,true,,926,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70931/schedules_and_units,21,0,0
+1597118752383,27,get_seatio_info,200,,Peppa Pig Live 1-3,text,true,,556,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010679&date=2020-11-21,27,0,0
+1597118752411,24,assigned_seat,200,,Peppa Pig Live 1-3,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010679&date=2020-11-21,23,0,0
+1597118750385,2108,注册,200,OK,Peppa Pig Live 1-9,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2108,0,11
+1597118752494,18,套餐信息,200,OK,Peppa Pig Live 1-9,text,true,,1683,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70923/schedules_and_units,18,0,0
+1597118752512,13,get_seatio_info,200,,Peppa Pig Live 1-9,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010668&date=2020-11-22,13,0,0
+1597118751779,753,释放,204,No Content,Peppa Pig Live 1-6,,true,,298,374,10,10,https://api.seatsio.net/events/2020-11-22-11/actions/release,0,0,545
+1597118750466,2067,注册,200,OK,Peppa Pig Live 1-2,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2067,0,10
+1597118752526,19,assigned_seat,200,,Peppa Pig Live 1-9,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010668&date=2020-11-22,19,0,0
+1597118752533,22,套餐信息,200,OK,Peppa Pig Live 1-2,text,true,,925,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70930/schedules_and_units,22,0,0
+1597118752556,14,get_seatio_info,200,,Peppa Pig Live 1-2,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010678&date=2020-11-21,14,0,0
+1597118752570,16,assigned_seat,200,,Peppa Pig Live 1-2,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010678&date=2020-11-21,16,0,0
+1597118750663,2086,注册,200,OK,Peppa Pig Live 1-10,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2086,0,9
+1597118752749,22,套餐信息,200,OK,Peppa Pig Live 1-10,text,true,,1683,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70923/schedules_and_units,22,0,0
+1597118752771,13,get_seatio_info,200,,Peppa Pig Live 1-10,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010668&date=2020-11-21,13,0,0
+1597118752784,22,assigned_seat,200,,Peppa Pig Live 1-10,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010668&date=2020-11-21,22,0,0
+1597118752435,418,assign_seat,200,,Peppa Pig Live 1-3,text,true,,1253,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,418,0,0
+1597118752854,85,加入购物车,200,,Peppa Pig Live 1-3,text,true,,411,536,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,85,0,0
+1597118750774,2197,下单,200,,Peppa Pig Live 1-8,text,true,,3735,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2197,0,0
+1597118752587,416,assign_seat,200,,Peppa Pig Live 1-2,text,true,,1218,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,416,0,0
+1597118752545,530,assign_seat,200,,Peppa Pig Live 1-9,text,true,,1218,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,530,0,0
+1597118753004,75,加入购物车,200,,Peppa Pig Live 1-2,text,true,,411,532,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,75,0,0
+1597118753075,84,加入购物车,200,,Peppa Pig Live 1-9,text,true,,411,532,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,83,0,0
+1597118752806,422,assign_seat,200,,Peppa Pig Live 1-10,text,true,,1218,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,422,0,0
+1597118753229,101,加入购物车,200,,Peppa Pig Live 1-10,text,true,,411,532,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,101,0,0
+1597118751855,2175,下单,200,,Peppa Pig Live 1-5,text,true,,3739,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2175,0,0
+1597118751975,2175,下单,200,,Peppa Pig Live 1-7,text,true,,3735,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2175,0,0
+1597118752533,2074,注册,200,OK,Peppa Pig Live 1-6,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2074,0,10
+1597118754608,16,套餐信息,200,OK,Peppa Pig Live 1-6,text,true,,923,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70918/schedules_and_units,16,0,0
+1597118754625,21,get_seatio_info,200,,Peppa Pig Live 1-6,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010663&date=2020-11-22,21,0,0
+1597118754646,17,assigned_seat,200,,Peppa Pig Live 1-6,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010663&date=2020-11-22,16,0,0
+1597118752356,2507,创建订单,200,,Peppa Pig Live 1-1,text,true,,585,1540,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2507,0,2
+1597118754663,436,assign_seat,200,,Peppa Pig Live 1-6,text,true,,1230,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,436,0,0
+1597118752940,2194,下单,200,,Peppa Pig Live 1-3,text,true,,3733,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2194,0,0
+1597118755100,104,加入购物车,200,,Peppa Pig Live 1-6,text,true,,411,532,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,104,0,0
+1597118753079,2185,下单,200,,Peppa Pig Live 1-2,text,true,,3729,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2185,0,0
+1597118753159,2230,下单,200,,Peppa Pig Live 1-9,text,true,,3737,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2230,0,0
+1597118753331,2258,下单,200,,Peppa Pig Live 1-10,text,true,,3737,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2258,0,0
+1597118754864,728,释放,204,No Content,Peppa Pig Live 1-1,,true,,298,375,10,10,https://api.seatsio.net/events/2020-11-21-19/actions/release,0,0,527
+1597118752972,2661,创建订单,200,,Peppa Pig Live 1-8,text,true,,585,1543,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2661,0,1
+1597118755634,764,释放,204,No Content,Peppa Pig Live 1-8,,true,,298,379,10,10,https://api.seatsio.net/events/2020-11-22-11/actions/release,0,0,542
+1597118754031,2569,创建订单,200,,Peppa Pig Live 1-5,text,true,,585,1540,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2569,0,1
+1597118754150,2566,创建订单,200,,Peppa Pig Live 1-7,text,true,,585,1543,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2566,0,2
+1597118756600,742,释放,204,No Content,Peppa Pig Live 1-5,,true,,298,375,10,10,https://api.seatsio.net/events/2020-11-22-11/actions/release,0,0,542
+1597118751535,5824,下单,200,,Peppa Pig Live 1-4,text,true,,3733,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,5824,0,0
+1597118755204,2246,下单,200,,Peppa Pig Live 1-6,text,true,,3731,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2246,0,0
+1597118756716,745,释放,204,No Content,Peppa Pig Live 1-7,,true,,298,379,10,10,https://api.seatsio.net/events/2020-11-22-11/actions/release,0,0,543
+1597118755592,2082,注册,200,OK,Peppa Pig Live 1-1,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2082,0,9
+1597118757674,33,套餐信息,200,OK,Peppa Pig Live 1-1,text,true,,1556,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70929/schedules_and_units,33,0,0
+1597118757708,31,get_seatio_info,200,,Peppa Pig Live 1-1,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010677&date=2020-11-21,31,0,0
+1597118755135,2619,创建订单,200,,Peppa Pig Live 1-3,text,true,,585,1543,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2619,0,1
+1597118757740,19,assigned_seat,200,,Peppa Pig Live 1-1,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010677&date=2020-11-21,19,0,0
+1597118755265,2599,创建订单,200,,Peppa Pig Live 1-2,text,true,,585,1539,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2599,0,1
+1597118755389,2597,创建订单,200,,Peppa Pig Live 1-9,text,true,,585,1540,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2597,0,2
+1597118757759,436,assign_seat,200,,Peppa Pig Live 1-1,text,true,,1230,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,436,0,0
+1597118758196,90,加入购物车,200,,Peppa Pig Live 1-1,text,true,,411,532,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,90,0,0
+1597118756399,2070,注册,200,OK,Peppa Pig Live 1-8,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2070,0,9
+1597118758469,20,套餐信息,200,OK,Peppa Pig Live 1-8,text,true,,914,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70921/schedules_and_units,20,0,0
+1597118758489,15,get_seatio_info,200,,Peppa Pig Live 1-8,text,true,,556,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010666&date=2020-11-22,15,0,0
+1597118758504,18,assigned_seat,200,,Peppa Pig Live 1-8,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010666&date=2020-11-22,18,0,0
+1597118757754,791,释放,204,No Content,Peppa Pig Live 1-3,,true,,298,379,10,10,https://api.seatsio.net/events/2020-11-21-19/actions/release,0,0,589
+1597118757864,726,释放,204,No Content,Peppa Pig Live 1-2,,true,,298,375,10,10,https://api.seatsio.net/events/2020-11-21-19/actions/release,0,0,529
+1597118757986,727,释放,204,No Content,Peppa Pig Live 1-9,,true,,298,375,10,10,https://api.seatsio.net/events/2020-11-22-15/actions/release,0,0,531
+1597118758523,417,assign_seat,200,,Peppa Pig Live 1-8,text,true,,1266,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,417,0,0
+1597118758940,73,加入购物车,200,,Peppa Pig Live 1-8,text,true,,411,536,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,73,0,0
+1597118757343,2066,注册,200,OK,Peppa Pig Live 1-5,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2066,0,9
+1597118759410,18,套餐信息,200,OK,Peppa Pig Live 1-5,text,true,,1555,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70914/schedules_and_units,18,0,0
+1597118759429,13,get_seatio_info,200,,Peppa Pig Live 1-5,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010662&date=2020-11-22,13,0,0
+1597118759442,16,assigned_seat,200,,Peppa Pig Live 1-5,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010662&date=2020-11-22,16,0,0
+1597118757461,2063,注册,200,OK,Peppa Pig Live 1-7,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2063,0,9
+1597118759524,18,套餐信息,200,OK,Peppa Pig Live 1-7,text,true,,923,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70919/schedules_and_units,18,0,0
+1597118759542,14,get_seatio_info,200,,Peppa Pig Live 1-7,text,true,,556,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010664&date=2020-11-22,14,0,0
+1597118759556,18,assigned_seat,200,,Peppa Pig Live 1-7,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010664&date=2020-11-22,18,0,0
+1597118759458,420,assign_seat,200,,Peppa Pig Live 1-5,text,true,,1212,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,420,0,0
+1597118757359,2566,创建订单,200,,Peppa Pig Live 1-4,text,true,,585,1543,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2566,0,2
+1597118759879,101,加入购物车,200,,Peppa Pig Live 1-5,text,true,,411,531,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,101,0,0
+1597118759574,444,assign_seat,200,,Peppa Pig Live 1-7,text,true,,1266,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,444,0,0
+1597118757451,2675,创建订单,200,,Peppa Pig Live 1-6,text,true,,585,1539,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2675,0,1
+1597118760020,124,加入购物车,200,,Peppa Pig Live 1-7,text,true,,411,536,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,124,0,0
+1597118758286,2218,下单,200,,Peppa Pig Live 1-1,text,true,,3737,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2217,0,0
+1597118758546,2078,注册,200,OK,Peppa Pig Live 1-3,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2078,0,9
+1597118760624,18,套餐信息,200,OK,Peppa Pig Live 1-3,text,true,,926,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70931/schedules_and_units,18,0,0
+1597118760643,17,get_seatio_info,200,,Peppa Pig Live 1-3,text,true,,556,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010679&date=2020-11-21,17,0,0
+1597118758590,2077,注册,200,OK,Peppa Pig Live 1-2,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2077,0,9
+1597118759925,746,释放,204,No Content,Peppa Pig Live 1-4,,true,,298,379,10,10,https://api.seatsio.net/events/2020-11-21-19/actions/release,0,0,538
+1597118760661,40,assigned_seat,200,,Peppa Pig Live 1-3,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010679&date=2020-11-21,40,0,0
+1597118760667,34,套餐信息,200,OK,Peppa Pig Live 1-2,text,true,,925,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70930/schedules_and_units,34,0,0
+1597118760701,26,get_seatio_info,200,,Peppa Pig Live 1-2,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010678&date=2020-11-21,26,0,0
+1597118758713,2073,注册,200,OK,Peppa Pig Live 1-9,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2073,0,9
+1597118760727,72,assigned_seat,200,,Peppa Pig Live 1-2,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010678&date=2020-11-21,72,0,0
+1597118760126,744,释放,204,No Content,Peppa Pig Live 1-6,,true,,298,375,10,10,https://api.seatsio.net/events/2020-11-22-11/actions/release,0,0,533
+1597118760787,86,套餐信息,200,OK,Peppa Pig Live 1-9,text,true,,1683,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70923/schedules_and_units,86,0,0
+1597118760873,19,get_seatio_info,200,,Peppa Pig Live 1-9,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010668&date=2020-11-22,19,0,0
+1597118760892,31,assigned_seat,200,,Peppa Pig Live 1-9,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010668&date=2020-11-22,31,0,0
+1597118760701,420,assign_seat,200,,Peppa Pig Live 1-3,text,true,,1253,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,420,0,0
+1597118761121,79,加入购物车,200,,Peppa Pig Live 1-3,text,true,,411,536,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,79,0,0
+1597118759014,2228,下单,200,,Peppa Pig Live 1-8,text,true,,3735,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2228,0,0
+1597118760800,459,assign_seat,200,,Peppa Pig Live 1-2,text,true,,1218,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,459,0,0
+1597118761260,71,加入购物车,200,,Peppa Pig Live 1-2,text,true,,411,532,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,71,0,0
+1597118760923,537,assign_seat,200,,Peppa Pig Live 1-9,text,true,,1218,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,537,0,0
+1597118761460,84,加入购物车,200,,Peppa Pig Live 1-9,text,true,,411,532,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,84,0,0
+1597118759980,2266,下单,200,,Peppa Pig Live 1-5,text,true,,3738,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2266,0,0
+1597118755590,6898,创建订单,200,,Peppa Pig Live 1-10,text,true,,585,1540,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,6898,0,1
+1597118760672,2168,注册,200,OK,Peppa Pig Live 1-4,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2168,0,8
+1597118762840,30,套餐信息,200,OK,Peppa Pig Live 1-4,text,true,,917,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70932/schedules_and_units,30,0,0
+1597118762871,15,get_seatio_info,200,,Peppa Pig Live 1-4,text,true,,556,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010680&date=2020-11-21,15,0,0
+1597118762886,17,assigned_seat,200,,Peppa Pig Live 1-4,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010680&date=2020-11-21,17,0,0
+1597118760871,2068,注册,200,OK,Peppa Pig Live 1-6,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2068,0,8
+1597118762940,28,套餐信息,200,OK,Peppa Pig Live 1-6,text,true,,923,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70918/schedules_and_units,28,0,0
+1597118762969,17,get_seatio_info,200,,Peppa Pig Live 1-6,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010663&date=2020-11-22,17,0,0
+1597118762986,25,assigned_seat,200,,Peppa Pig Live 1-6,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010663&date=2020-11-22,25,0,0
+1597118760504,2644,创建订单,200,,Peppa Pig Live 1-1,text,true,,585,1540,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2644,0,2
+1597118762489,721,释放,204,No Content,Peppa Pig Live 1-10,,true,,298,375,10,10,https://api.seatsio.net/events/2020-11-21-15/actions/release,0,0,529
+1597118762903,424,assign_seat,200,,Peppa Pig Live 1-4,text,true,,1266,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,424,0,0
+1597118763327,86,加入购物车,200,,Peppa Pig Live 1-4,text,true,,411,536,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,86,0,0
+1597118761200,2227,下单,200,,Peppa Pig Live 1-3,text,true,,3733,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2227,0,0
+1597118763011,516,assign_seat,200,,Peppa Pig Live 1-6,text,true,,1222,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,516,0,0
+1597118761331,2221,下单,200,,Peppa Pig Live 1-2,text,true,,3729,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2221,0,0
+1597118763528,99,加入购物车,200,,Peppa Pig Live 1-6,text,true,,411,531,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,99,0,0
+1597118761545,2250,下单,200,,Peppa Pig Live 1-9,text,true,,3737,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2250,0,0
+1597118761242,2604,创建订单,200,,Peppa Pig Live 1-8,text,true,,585,1543,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2604,0,2
+1597118763149,758,释放,204,No Content,Peppa Pig Live 1-1,,true,,298,375,10,10,https://api.seatsio.net/events/2020-11-21-19/actions/release,0,0,552
+1597118763847,732,释放,204,No Content,Peppa Pig Live 1-8,,true,,298,379,10,10,https://api.seatsio.net/events/2020-11-22-11/actions/release,0,0,535
+1597118762246,2551,创建订单,200,,Peppa Pig Live 1-5,text,true,,585,1539,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2551,0,2
+1597118763211,2081,注册,200,OK,Peppa Pig Live 1-10,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2081,0,11
+1597118765292,22,套餐信息,200,OK,Peppa Pig Live 1-10,text,true,,1683,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70923/schedules_and_units,22,0,0
+1597118765315,13,get_seatio_info,200,,Peppa Pig Live 1-10,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010668&date=2020-11-21,13,0,0
+1597118765328,17,assigned_seat,200,,Peppa Pig Live 1-10,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010668&date=2020-11-21,16,0,0
+1597118764797,733,释放,204,No Content,Peppa Pig Live 1-5,,true,,298,374,10,10,https://api.seatsio.net/events/2020-11-22-11/actions/release,0,0,532
+1597118763413,2200,下单,200,,Peppa Pig Live 1-4,text,true,,3733,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2200,0,0
+1597118763627,2191,下单,200,,Peppa Pig Live 1-6,text,true,,3730,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2191,0,0
+1597118765345,512,assign_seat,200,,Peppa Pig Live 1-10,text,true,,1212,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,512,0,0
+1597118763908,2068,注册,200,OK,Peppa Pig Live 1-1,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2068,0,9
+1597118765857,127,加入购物车,200,,Peppa Pig Live 1-10,text,true,,411,531,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,127,0,0
+1597118763428,2561,创建订单,200,,Peppa Pig Live 1-3,text,true,,585,1543,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2561,0,2
+1597118765976,31,套餐信息,200,OK,Peppa Pig Live 1-1,text,true,,1556,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70929/schedules_and_units,31,0,0
+1597118766008,30,get_seatio_info,200,,Peppa Pig Live 1-1,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010677&date=2020-11-21,30,0,0
+1597118766038,25,assigned_seat,200,,Peppa Pig Live 1-1,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010677&date=2020-11-21,25,0,0
+1597118763553,2619,创建订单,200,,Peppa Pig Live 1-2,text,true,,585,1539,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2619,0,1
+1597118763795,2582,创建订单,200,,Peppa Pig Live 1-9,text,true,,585,1540,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2582,0,2
+1597118766063,471,assign_seat,200,,Peppa Pig Live 1-1,text,true,,1230,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,471,0,0
+1597118766534,88,加入购物车,200,,Peppa Pig Live 1-1,text,true,,411,532,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,88,0,0
+1597118764580,2068,注册,200,OK,Peppa Pig Live 1-8,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2068,0,8
+1597118766648,22,套餐信息,200,OK,Peppa Pig Live 1-8,text,true,,914,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70921/schedules_and_units,22,0,0
+1597118766670,21,get_seatio_info,200,,Peppa Pig Live 1-8,text,true,,556,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010666&date=2020-11-22,21,0,0
+1597118766692,19,assigned_seat,200,,Peppa Pig Live 1-8,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010666&date=2020-11-22,19,0,0
+1597118765989,737,释放,204,No Content,Peppa Pig Live 1-3,,true,,298,379,10,10,https://api.seatsio.net/events/2020-11-21-19/actions/release,0,0,538
+1597118766172,728,释放,204,No Content,Peppa Pig Live 1-2,,true,,298,375,10,10,https://api.seatsio.net/events/2020-11-21-19/actions/release,0,0,536
+1597118766378,738,释放,204,No Content,Peppa Pig Live 1-9,,true,,298,375,10,10,https://api.seatsio.net/events/2020-11-22-15/actions/release,0,0,533
+1597118766711,431,assign_seat,200,,Peppa Pig Live 1-8,text,true,,1266,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,431,0,0
+1597118767143,83,加入购物车,200,,Peppa Pig Live 1-8,text,true,,411,536,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,83,0,0
+1597118760145,7232,下单,200,,Peppa Pig Live 1-7,text,true,,3735,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,7232,0,0
+1597118765530,2070,注册,200,OK,Peppa Pig Live 1-5,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2070,0,11
+1597118767600,20,套餐信息,200,OK,Peppa Pig Live 1-5,text,true,,1555,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70914/schedules_and_units,20,0,0
+1597118767620,15,get_seatio_info,200,,Peppa Pig Live 1-5,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010662&date=2020-11-22,15,0,0
+1597118767635,17,assigned_seat,200,,Peppa Pig Live 1-5,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010662&date=2020-11-22,16,0,0
+1597118767652,432,assign_seat,200,,Peppa Pig Live 1-5,text,true,,1212,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,432,0,0
+1597118768085,82,加入购物车,200,,Peppa Pig Live 1-5,text,true,,411,531,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,82,0,0
+1597118765614,2587,创建订单,200,,Peppa Pig Live 1-4,text,true,,585,1543,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2587,0,1
+1597118765818,2575,创建订单,200,,Peppa Pig Live 1-6,text,true,,585,1538,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2575,0,2
+1597118766623,2191,下单,200,,Peppa Pig Live 1-1,text,true,,3737,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2191,0,0
+1597118766727,2120,注册,200,OK,Peppa Pig Live 1-3,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2120,0,9
+1597118768847,23,套餐信息,200,OK,Peppa Pig Live 1-3,text,true,,926,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70931/schedules_and_units,23,0,0
+1597118768870,24,get_seatio_info,200,,Peppa Pig Live 1-3,text,true,,556,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010679&date=2020-11-21,24,0,0
+1597118768894,22,assigned_seat,200,,Peppa Pig Live 1-3,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010679&date=2020-11-21,22,0,0
+1597118768201,750,释放,204,No Content,Peppa Pig Live 1-4,,true,,298,379,10,10,https://api.seatsio.net/events/2020-11-21-19/actions/release,0,0,539
+1597118766900,2148,注册,200,OK,Peppa Pig Live 1-2,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2148,0,10
+1597118769048,36,套餐信息,200,OK,Peppa Pig Live 1-2,text,true,,925,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70930/schedules_and_units,36,0,0
+1597118769085,27,get_seatio_info,200,,Peppa Pig Live 1-2,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010678&date=2020-11-21,27,0,0
+1597118768394,734,释放,204,No Content,Peppa Pig Live 1-6,,true,,298,374,10,10,https://api.seatsio.net/events/2020-11-22-11/actions/release,0,0,538
+1597118769112,29,assigned_seat,200,,Peppa Pig Live 1-2,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010678&date=2020-11-21,29,0,0
+1597118767117,2088,注册,200,OK,Peppa Pig Live 1-9,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2088,0,11
+1597118769205,18,套餐信息,200,OK,Peppa Pig Live 1-9,text,true,,1683,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70923/schedules_and_units,18,0,0
+1597118769223,13,get_seatio_info,200,,Peppa Pig Live 1-9,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010668&date=2020-11-22,13,0,0
+1597118769237,16,assigned_seat,200,,Peppa Pig Live 1-9,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010668&date=2020-11-22,16,0,0
+1597118767226,2195,下单,200,,Peppa Pig Live 1-8,text,true,,3735,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2195,0,0
+1597118768916,519,assign_seat,200,,Peppa Pig Live 1-3,text,true,,1266,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,519,0,0
+1597118769436,84,加入购物车,200,,Peppa Pig Live 1-3,text,true,,411,536,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,84,0,0
+1597118769141,451,assign_seat,200,,Peppa Pig Live 1-2,text,true,,1218,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,451,0,0
+1597118769593,75,加入购物车,200,,Peppa Pig Live 1-2,text,true,,411,532,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,75,0,0
+1597118769253,427,assign_seat,200,,Peppa Pig Live 1-9,text,true,,1218,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,427,0,0
+1597118769681,89,加入购物车,200,,Peppa Pig Live 1-9,text,true,,411,532,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,89,0,0
+1597118767378,2550,创建订单,200,,Peppa Pig Live 1-7,text,true,,585,1543,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2550,0,2
+1597118768168,2209,下单,200,,Peppa Pig Live 1-5,text,true,,3738,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2209,0,0
+1597118769928,742,释放,204,No Content,Peppa Pig Live 1-7,,true,,298,379,10,10,https://api.seatsio.net/events/2020-11-22-11/actions/release,0,0,540
+1597118768952,2076,注册,200,OK,Peppa Pig Live 1-4,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2076,0,9
+1597118771028,18,套餐信息,200,OK,Peppa Pig Live 1-4,text,true,,917,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70932/schedules_and_units,18,0,0
+1597118771046,15,get_seatio_info,200,,Peppa Pig Live 1-4,text,true,,556,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010680&date=2020-11-21,15,0,0
+1597118771061,16,assigned_seat,200,,Peppa Pig Live 1-4,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010680&date=2020-11-21,16,0,0
+1597118769128,2066,注册,200,OK,Peppa Pig Live 1-6,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2066,0,10
+1597118771195,19,套餐信息,200,OK,Peppa Pig Live 1-6,text,true,,923,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70918/schedules_and_units,19,0,0
+1597118771214,28,get_seatio_info,200,,Peppa Pig Live 1-6,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010663&date=2020-11-22,28,0,0
+1597118771243,15,assigned_seat,200,,Peppa Pig Live 1-6,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010663&date=2020-11-22,15,0,0
+1597118768815,2518,创建订单,200,,Peppa Pig Live 1-1,text,true,,585,1540,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2518,0,1
+1597118771078,513,assign_seat,200,,Peppa Pig Live 1-4,text,true,,1266,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,513,0,0
+1597118771592,94,加入购物车,200,,Peppa Pig Live 1-4,text,true,,411,536,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,94,0,0
+1597118771259,435,assign_seat,200,,Peppa Pig Live 1-6,text,true,,1230,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,435,0,0
+1597118769520,2200,下单,200,,Peppa Pig Live 1-3,text,true,,3733,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2200,0,0
+1597118771695,83,加入购物车,200,,Peppa Pig Live 1-6,text,true,,411,532,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,82,0,0
+1597118769668,2183,下单,200,,Peppa Pig Live 1-2,text,true,,3729,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2183,0,0
+1597118769771,2213,下单,200,,Peppa Pig Live 1-9,text,true,,3737,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2213,0,0
+1597118769421,2634,创建订单,200,,Peppa Pig Live 1-8,text,true,,585,1543,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2634,0,2
+1597118771333,735,释放,204,No Content,Peppa Pig Live 1-1,,true,,298,375,10,10,https://api.seatsio.net/events/2020-11-21-19/actions/release,0,0,539
+1597118765985,6392,下单,200,,Peppa Pig Live 1-10,text,true,,3736,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,6392,0,0
+1597118772055,735,释放,204,No Content,Peppa Pig Live 1-8,,true,,298,379,10,10,https://api.seatsio.net/events/2020-11-22-11/actions/release,0,0,537
+1597118770670,2176,注册,200,OK,Peppa Pig Live 1-7,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2176,0,9
+1597118772846,19,套餐信息,200,OK,Peppa Pig Live 1-7,text,true,,923,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70919/schedules_and_units,19,0,0
+1597118772865,20,get_seatio_info,200,,Peppa Pig Live 1-7,text,true,,556,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010664&date=2020-11-22,20,0,0
+1597118772885,28,assigned_seat,200,,Peppa Pig Live 1-7,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010664&date=2020-11-22,28,0,0
+1597118770378,2622,创建订单,200,,Peppa Pig Live 1-5,text,true,,585,1539,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2622,0,1
+1597118772913,417,assign_seat,200,,Peppa Pig Live 1-7,text,true,,1266,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,417,0,0
+1597118773331,86,加入购物车,200,,Peppa Pig Live 1-7,text,true,,411,536,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,86,0,0
+1597118773000,750,释放,204,No Content,Peppa Pig Live 1-5,,true,,298,374,10,10,https://api.seatsio.net/events/2020-11-22-11/actions/release,0,0,546
+1597118771686,2224,下单,200,,Peppa Pig Live 1-4,text,true,,3733,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2224,0,0
+1597118771778,2220,下单,200,,Peppa Pig Live 1-6,text,true,,3731,491,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2220,0,0
+1597118772068,2067,注册,200,OK,Peppa Pig Live 1-1,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2067,0,9
+1597118774136,25,套餐信息,200,OK,Peppa Pig Live 1-1,text,true,,1556,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70929/schedules_and_units,24,0,0
+1597118774161,25,get_seatio_info,200,,Peppa Pig Live 1-1,text,true,,548,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010677&date=2020-11-21,25,0,0
+1597118774186,19,assigned_seat,200,,Peppa Pig Live 1-1,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010677&date=2020-11-21,19,0,0
+1597118771852,2669,创建订单,200,,Peppa Pig Live 1-2,text,true,,585,1539,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2669,0,1
+1597118771984,2636,创建订单,200,,Peppa Pig Live 1-9,text,true,,585,1540,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2636,0,2
+1597118774206,430,assign_seat,200,,Peppa Pig Live 1-1,text,true,,1212,374,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,430,0,0
+1597118774636,124,加入购物车,200,,Peppa Pig Live 1-1,text,true,,411,531,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,124,0,0
+1597118772791,2120,注册,200,OK,Peppa Pig Live 1-8,text,true,,1198,364,10,10,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2120,0,9
+1597118774912,38,套餐信息,200,OK,Peppa Pig Live 1-8,text,true,,914,204,10,10,https://t251.test.klook.io/v1/usrcsrv/packages/70921/schedules_and_units,38,0,0
+1597118774950,16,get_seatio_info,200,,Peppa Pig Live 1-8,text,true,,556,245,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010666&date=2020-11-22,16,0,0
+1597118774967,19,assigned_seat,200,,Peppa Pig Live 1-8,text,true,,328,292,10,10,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010666&date=2020-11-22,19,0,0
+1597118772376,2731,创建订单,200,,Peppa Pig Live 1-10,text,true,,585,1539,10,10,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2731,0,2
+1597118774521,720,释放,204,No Content,Peppa Pig Live 1-2,,true,,298,375,10,10,https://api.seatsio.net/events/2020-11-21-19/actions/release,0,0,527
+1597118774619,729,释放,204,No Content,Peppa Pig Live 1-9,,true,,298,375,9,9,https://api.seatsio.net/events/2020-11-22-15/actions/release,0,0,524
+1597118774987,424,assign_seat,200,,Peppa Pig Live 1-8,text,true,,1266,374,8,8,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,424,0,0
+1597118775412,105,加入购物车,200,,Peppa Pig Live 1-8,text,true,,411,536,8,8,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,105,0,0
+1597118773417,2305,下单,200,,Peppa Pig Live 1-7,text,true,,3735,491,8,8,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2305,0,0
+1597118773751,2072,注册,200,OK,Peppa Pig Live 1-5,text,true,,1198,364,8,8,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2072,0,10
+1597118775107,735,释放,204,No Content,Peppa Pig Live 1-10,,true,,298,374,8,8,https://api.seatsio.net/events/2020-11-21-15/actions/release,0,0,535
+1597118775824,21,套餐信息,200,OK,Peppa Pig Live 1-5,text,true,,1555,204,8,8,https://t251.test.klook.io/v1/usrcsrv/packages/70914/schedules_and_units,21,0,0
+1597118775846,14,get_seatio_info,200,,Peppa Pig Live 1-5,text,true,,548,245,8,8,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010662&date=2020-11-22,14,0,0
+1597118775861,16,assigned_seat,200,,Peppa Pig Live 1-5,text,true,,328,292,8,8,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010662&date=2020-11-22,16,0,0
+1597118775877,525,assign_seat,200,,Peppa Pig Live 1-5,text,true,,1212,374,8,8,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,525,0,0
+1597118776403,86,加入购物车,200,,Peppa Pig Live 1-5,text,true,,411,531,8,8,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,86,0,0
+1597118773909,2606,创建订单,200,,Peppa Pig Live 1-4,text,true,,585,1543,8,8,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2606,0,2
+1597118773997,2663,创建订单,200,,Peppa Pig Live 1-6,text,true,,585,1539,8,8,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2663,0,3
+1597118774760,2281,下单,200,,Peppa Pig Live 1-1,text,true,,3736,491,8,8,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2281,0,0
+1597118776516,724,释放,204,No Content,Peppa Pig Live 1-4,,true,,298,379,8,8,https://api.seatsio.net/events/2020-11-21-19/actions/release,0,0,530
+1597118776660,746,释放,204,No Content,Peppa Pig Live 1-6,,true,,298,375,8,8,https://api.seatsio.net/events/2020-11-22-11/actions/release,0,0,541
+1597118771720,5789,创建订单,200,,Peppa Pig Live 1-3,text,true,,585,1543,7,7,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,5789,0,2
+1597118775518,2194,下单,200,,Peppa Pig Live 1-8,text,true,,3735,491,7,7,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2194,0,0
+1597118775843,2062,注册,200,OK,Peppa Pig Live 1-10,text,true,,1198,364,7,7,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2062,0,8
+1597118777906,17,套餐信息,200,OK,Peppa Pig Live 1-10,text,true,,1683,204,7,7,https://t251.test.klook.io/v1/usrcsrv/packages/70923/schedules_and_units,17,0,0
+1597118777924,13,get_seatio_info,200,,Peppa Pig Live 1-10,text,true,,548,245,7,7,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010668&date=2020-11-21,13,0,0
+1597118777938,15,assigned_seat,200,,Peppa Pig Live 1-10,text,true,,328,292,7,7,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010668&date=2020-11-21,15,0,0
+1597118777508,750,释放,204,No Content,Peppa Pig Live 1-3,,true,,298,379,7,7,https://api.seatsio.net/events/2020-11-21-19/actions/release,0,0,545
+1597118777953,414,assign_seat,200,,Peppa Pig Live 1-10,text,true,,1218,374,6,6,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,414,0,0
+1597118778368,74,加入购物车,200,,Peppa Pig Live 1-10,text,true,,411,532,6,6,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,74,0,0
+1597118776490,2175,下单,200,,Peppa Pig Live 1-5,text,true,,3738,491,6,6,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2175,0,0
+1597118777240,2067,注册,200,OK,Peppa Pig Live 1-4,text,true,,1198,364,6,6,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2067,0,9
+1597118779307,17,套餐信息,200,OK,Peppa Pig Live 1-4,text,true,,917,204,6,6,https://t251.test.klook.io/v1/usrcsrv/packages/70932/schedules_and_units,17,0,0
+1597118779324,13,get_seatio_info,200,,Peppa Pig Live 1-4,text,true,,556,245,6,6,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010680&date=2020-11-21,13,0,0
+1597118779337,16,assigned_seat,200,,Peppa Pig Live 1-4,text,true,,328,292,6,6,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010680&date=2020-11-21,16,0,0
+1597118777041,2525,创建订单,200,,Peppa Pig Live 1-1,text,true,,585,1539,6,6,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2525,0,2
+1597118779354,423,assign_seat,200,,Peppa Pig Live 1-4,text,true,,1266,374,6,6,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,423,0,0
+1597118779777,76,加入购物车,200,,Peppa Pig Live 1-4,text,true,,411,536,6,6,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,76,0,0
+1597118779566,750,释放,204,No Content,Peppa Pig Live 1-1,,true,,298,374,6,6,https://api.seatsio.net/events/2020-11-21-19/actions/release,0,0,548
+1597118777712,2608,创建订单,200,,Peppa Pig Live 1-8,text,true,,585,1543,6,6,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2607,0,2
+1597118778442,2164,下单,200,,Peppa Pig Live 1-10,text,true,,3737,491,6,6,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2164,0,0
+1597118780320,722,释放,204,No Content,Peppa Pig Live 1-8,,true,,298,379,6,6,https://api.seatsio.net/events/2020-11-22-11/actions/release,0,0,527
+1597118778666,2481,创建订单,200,,Peppa Pig Live 1-5,text,true,,585,1539,5,5,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2481,0,1
+1597118781148,738,释放,204,No Content,Peppa Pig Live 1-5,,true,,298,374,5,5,https://api.seatsio.net/events/2020-11-22-11/actions/release,0,0,535
+1597118779853,2151,下单,200,,Peppa Pig Live 1-4,text,true,,3733,491,4,4,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2151,0,0
+1597118780317,2138,注册,200,OK,Peppa Pig Live 1-1,text,true,,1198,364,4,4,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2138,0,86
+1597118782455,33,套餐信息,200,OK,Peppa Pig Live 1-1,text,true,,1556,204,4,4,https://t251.test.klook.io/v1/usrcsrv/packages/70929/schedules_and_units,33,0,0
+1597118782488,23,get_seatio_info,200,,Peppa Pig Live 1-1,text,true,,548,245,4,4,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010677&date=2020-11-21,23,0,0
+1597118782511,22,assigned_seat,200,,Peppa Pig Live 1-1,text,true,,328,292,4,4,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010677&date=2020-11-21,22,0,0
+1597118775723,6888,创建订单,200,,Peppa Pig Live 1-7,text,true,,585,1543,4,4,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,6888,0,1
+1597118782533,429,assign_seat,200,,Peppa Pig Live 1-1,text,true,,1230,374,4,4,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,429,0,0
+1597118782963,81,加入购物车,200,,Peppa Pig Live 1-1,text,true,,411,532,4,4,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,81,0,0
+1597118782611,761,释放,204,No Content,Peppa Pig Live 1-7,,true,,298,379,4,4,https://api.seatsio.net/events/2020-11-22-11/actions/release,0,0,549
+1597118782005,2510,创建订单,200,,Peppa Pig Live 1-4,text,true,,585,1543,3,3,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,2510,0,1
+1597118783044,2164,下单,200,,Peppa Pig Live 1-1,text,true,,3737,491,3,3,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,2164,0,0
+1597118784515,734,释放,204,No Content,Peppa Pig Live 1-4,,true,,298,379,3,3,https://api.seatsio.net/events/2020-11-21-19/actions/release,0,0,531
+1597118780607,6905,创建订单,200,,Peppa Pig Live 1-10,text,true,,585,1540,2,2,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,6905,0,0
+1597118787512,745,释放,204,No Content,Peppa Pig Live 1-10,,true,,298,375,2,2,https://api.seatsio.net/events/2020-11-21-15/actions/release,0,0,540
+1597118788258,2067,注册,200,OK,Peppa Pig Live 1-10,text,true,,1198,364,2,2,https://t251.test.klook.io/v3/userserv/user/register_service/register_email,2067,0,6
+1597118790327,16,套餐信息,200,OK,Peppa Pig Live 1-10,text,true,,1683,204,2,2,https://t251.test.klook.io/v1/usrcsrv/packages/70923/schedules_and_units,16,0,0
+1597118790343,11,get_seatio_info,200,,Peppa Pig Live 1-10,text,true,,548,245,2,2,https://t251.test.klook.io/v1/enteventapisrv/public/activity/get_seatsio_info?sku_id=822428010668&date=2020-11-21,11,0,0
+1597118790354,15,assigned_seat,200,,Peppa Pig Live 1-10,text,true,,328,292,2,2,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assigned_seat?sku_id=822428010668&date=2020-11-21,15,0,0
+1597118790370,416,assign_seat,200,,Peppa Pig Live 1-10,text,true,,1212,374,2,2,https://t251.test.klook.io/v1/enteventapisrv/public/seats/assign_seat,416,0,0
+1597118790787,77,加入购物车,200,,Peppa Pig Live 1-10,text,true,,411,531,2,2,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/add_shopping_cart,77,0,0
+1597118785209,7348,创建订单,200,,Peppa Pig Live 1-1,text,true,,585,1540,2,2,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,7348,0,1
+1597118792558,741,释放,204,No Content,Peppa Pig Live 1-1,,true,,298,375,2,2,https://api.seatsio.net/events/2020-11-21-19/actions/release,0,0,545
+1597118790864,6565,下单,200,,Peppa Pig Live 1-10,text,true,,3736,491,1,1,https://t251.test.klook.io/v1/enteventapisrv/public/order/shopping_cart/settlement,6565,0,0
+1597118797430,5533,创建订单,200,,Peppa Pig Live 1-10,text,true,,585,1539,1,1,http://t251.test.klook.io/v1/enteventapisrv/public/order/create_order,5533,0,2
+1597118802964,727,释放,204,No Content,Peppa Pig Live 1-10,,true,,298,374,1,1,https://api.seatsio.net/events/2020-11-21-15/actions/release,0,0,528
